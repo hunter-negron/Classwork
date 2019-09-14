@@ -1,0 +1,5155 @@
+Car #0
+Entry Time: 0
+Entry Lane: EAST-bound
+Exit Time: 17
+Exit Lane: WEST-bound
+Car #1
+Entry Time: 0
+Entry Lane: SOUTH-bound
+Exit Time: 10
+Exit Lane: SOUTH-bound
+Car #2
+Entry Time: 1
+Entry Lane: NORTH-bound
+Exit Time: 11
+Exit Lane: EAST-bound
+Car #3
+Entry Time: 1
+Entry Lane: EAST-bound
+Exit Time: 16
+Exit Lane: SOUTH-bound
+Car #4
+Entry Time: 1
+Entry Lane: SOUTH-bound
+Exit Time: 11
+Exit Lane: SOUTH-bound
+Car #5
+Entry Time: 2
+Entry Lane: WEST-bound
+Exit Time: 18
+Exit Lane: EAST-bound
+Car #6
+Entry Time: 3
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #7
+Entry Time: 3
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #8
+Entry Time: 3
+Entry Lane: WEST-bound
+Exit Time: 17
+Exit Lane: WEST-bound
+Car #9
+Entry Time: 4
+Entry Lane: EAST-bound
+Exit Time: 18
+Exit Lane: SOUTH-bound
+Car #10
+Entry Time: 4
+Entry Lane: SOUTH-bound
+Exit Time: 14
+Exit Lane: SOUTH-bound
+Car #11
+Entry Time: 5
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #12
+Entry Time: 5
+Entry Lane: SOUTH-bound
+Exit Time: 26
+Exit Lane: WEST-bound
+Car #13
+Entry Time: 5
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #14
+Entry Time: 6
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #15
+Entry Time: 7
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #16
+Entry Time: 7
+Entry Lane: SOUTH-bound
+Exit Time: 28
+Exit Lane: SOUTH-bound
+Car #17
+Entry Time: 7
+Entry Lane: WEST-bound
+Exit Time: 19
+Exit Lane: WEST-bound
+Car #18
+Entry Time: 8
+Entry Lane: SOUTH-bound
+Exit Time: 28
+Exit Lane: WEST-bound
+Car #19
+Entry Time: 8
+Entry Lane: WEST-bound
+Exit Time: 20
+Exit Lane: WEST-bound
+Car #20
+Entry Time: 9
+Entry Lane: NORTH-bound
+Exit Time: 26
+Exit Lane: EAST-bound
+Car #21
+Entry Time: 9
+Entry Lane: SOUTH-bound
+Exit Time: 31
+Exit Lane: WEST-bound
+Car #22
+Entry Time: 10
+Entry Lane: SOUTH-bound
+Exit Time: 30
+Exit Lane: WEST-bound
+Car #23
+Entry Time: 10
+Entry Lane: WEST-bound
+Exit Time: 21
+Exit Lane: WEST-bound
+Car #24
+Entry Time: 11
+Entry Lane: NORTH-bound
+Exit Time: 27
+Exit Lane: NORTH-bound
+Car #25
+Entry Time: 11
+Entry Lane: EAST-bound
+Exit Time: 21
+Exit Lane: EAST-bound
+Car #26
+Entry Time: 11
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #27
+Entry Time: 12
+Entry Lane: WEST-bound
+Exit Time: 23
+Exit Lane: WEST-bound
+Car #28
+Entry Time: 13
+Entry Lane: EAST-bound
+Exit Time: 24
+Exit Lane: EAST-bound
+Car #29
+Entry Time: 13
+Entry Lane: WEST-bound
+Exit Time: 23
+Exit Lane: NORTH-bound
+Car #30
+Entry Time: 14
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #31
+Entry Time: 14
+Entry Lane: EAST-bound
+Exit Time: 24
+Exit Lane: EAST-bound
+Car #32
+Entry Time: 15
+Entry Lane: NORTH-bound
+Exit Time: 29
+Exit Lane: NORTH-bound
+Car #33
+Entry Time: 15
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #34
+Entry Time: 16
+Entry Lane: EAST-bound
+Exit Time: 36
+Exit Lane: EAST-bound
+Car #35
+Entry Time: 16
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #36
+Entry Time: 17
+Entry Lane: NORTH-bound
+Exit Time: 30
+Exit Lane: EAST-bound
+Car #37
+Entry Time: 17
+Entry Lane: EAST-bound
+Exit Time: 37
+Exit Lane: EAST-bound
+Car #38
+Entry Time: 17
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #39
+Entry Time: 19
+Entry Lane: EAST-bound
+Exit Time: 38
+Exit Lane: SOUTH-bound
+Car #40
+Entry Time: 19
+Entry Lane: WEST-bound
+Exit Time: 36
+Exit Lane: NORTH-bound
+Car #41
+Entry Time: 20
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #42
+Entry Time: 20
+Entry Lane: EAST-bound
+Exit Time: 39
+Exit Lane: SOUTH-bound
+Car #43
+Entry Time: 20
+Entry Lane: WEST-bound
+Exit Time: 38
+Exit Lane: WEST-bound
+Car #44
+Entry Time: 21
+Entry Lane: NORTH-bound
+Exit Time: 31
+Exit Lane: NORTH-bound
+Car #45
+Entry Time: 21
+Entry Lane: SOUTH-bound
+Exit Time: 31
+Exit Lane: SOUTH-bound
+Car #46
+Entry Time: 22
+Entry Lane: SOUTH-bound
+Exit Time: 32
+Exit Lane: SOUTH-bound
+Car #47
+Entry Time: 22
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #48
+Entry Time: 23
+Entry Lane: EAST-bound
+Exit Time: 41
+Exit Lane: EAST-bound
+Car #49
+Entry Time: 23
+Entry Lane: WEST-bound
+Exit Time: 39
+Exit Lane: NORTH-bound
+Car #50
+Entry Time: 24
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #51
+Entry Time: 24
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #52
+Entry Time: 25
+Entry Lane: NORTH-bound
+Exit Time: 37
+Exit Lane: EAST-bound
+Car #53
+Entry Time: 25
+Entry Lane: SOUTH-bound
+Exit Time: 35
+Exit Lane: WEST-bound
+Car #54
+Entry Time: 26
+Entry Lane: NORTH-bound
+Exit Time: 47
+Exit Lane: EAST-bound
+Car #55
+Entry Time: 26
+Entry Lane: WEST-bound
+Exit Time: 41
+Exit Lane: WEST-bound
+Car #56
+Entry Time: 27
+Entry Lane: SOUTH-bound
+Exit Time: 47
+Exit Lane: SOUTH-bound
+Car #57
+Entry Time: 27
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #58
+Entry Time: 28
+Entry Lane: NORTH-bound
+Exit Time: 48
+Exit Lane: NORTH-bound
+Car #59
+Entry Time: 28
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #60
+Entry Time: 28
+Entry Lane: SOUTH-bound
+Exit Time: 48
+Exit Lane: SOUTH-bound
+Car #61
+Entry Time: 28
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #62
+Entry Time: 29
+Entry Lane: NORTH-bound
+Exit Time: 49
+Exit Lane: EAST-bound
+Car #63
+Entry Time: 30
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #64
+Entry Time: 30
+Entry Lane: SOUTH-bound
+Exit Time: 49
+Exit Lane: SOUTH-bound
+Car #65
+Entry Time: 30
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #66
+Entry Time: 31
+Entry Lane: NORTH-bound
+Exit Time: 50
+Exit Lane: NORTH-bound
+Car #67
+Entry Time: 31
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #68
+Entry Time: 31
+Entry Lane: SOUTH-bound
+Exit Time: 50
+Exit Lane: WEST-bound
+Car #69
+Entry Time: 32
+Entry Lane: SOUTH-bound
+Exit Time: 51
+Exit Lane: WEST-bound
+Car #70
+Entry Time: 32
+Entry Lane: WEST-bound
+Exit Time: 43
+Exit Lane: WEST-bound
+Car #71
+Entry Time: 33
+Entry Lane: NORTH-bound
+Exit Time: 51
+Exit Lane: EAST-bound
+Car #72
+Entry Time: 33
+Entry Lane: EAST-bound
+Exit Time: 43
+Exit Lane: SOUTH-bound
+Car #73
+Entry Time: 34
+Entry Lane: EAST-bound
+Exit Time: 44
+Exit Lane: EAST-bound
+Car #74
+Entry Time: 35
+Entry Lane: EAST-bound
+Exit Time: 45
+Exit Lane: EAST-bound
+Car #75
+Entry Time: 36
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #76
+Entry Time: 36
+Entry Lane: WEST-bound
+Exit Time: 58
+Exit Lane: WEST-bound
+Car #77
+Entry Time: 37
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #78
+Entry Time: 37
+Entry Lane: EAST-bound
+Exit Time: 57
+Exit Lane: EAST-bound
+Car #79
+Entry Time: 38
+Entry Lane: EAST-bound
+Exit Time: 58
+Exit Lane: EAST-bound
+Car #80
+Entry Time: 38
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #81
+Entry Time: 38
+Entry Lane: WEST-bound
+Exit Time: 59
+Exit Lane: WEST-bound
+Car #82
+Entry Time: 39
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #83
+Entry Time: 39
+Entry Lane: WEST-bound
+Exit Time: 60
+Exit Lane: WEST-bound
+Car #84
+Entry Time: 40
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #85
+Entry Time: 40
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #86
+Entry Time: 41
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #87
+Entry Time: 42
+Entry Lane: EAST-bound
+Exit Time: 59
+Exit Lane: SOUTH-bound
+Car #88
+Entry Time: 42
+Entry Lane: WEST-bound
+Exit Time: 61
+Exit Lane: WEST-bound
+Car #89
+Entry Time: 43
+Entry Lane: NORTH-bound
+Exit Time: 53
+Exit Lane: NORTH-bound
+Car #90
+Entry Time: 43
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #91
+Entry Time: 43
+Entry Lane: WEST-bound
+Exit Time: 61
+Exit Lane: NORTH-bound
+Car #92
+Entry Time: 44
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #93
+Entry Time: 45
+Entry Lane: NORTH-bound
+Exit Time: 55
+Exit Lane: EAST-bound
+Car #94
+Entry Time: 45
+Entry Lane: SOUTH-bound
+Exit Time: 55
+Exit Lane: WEST-bound
+Car #95
+Entry Time: 45
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #96
+Entry Time: 46
+Entry Lane: NORTH-bound
+Exit Time: 56
+Exit Lane: NORTH-bound
+Car #97
+Entry Time: 46
+Entry Lane: EAST-bound
+Exit Time: 61
+Exit Lane: SOUTH-bound
+Car #98
+Entry Time: 47
+Entry Lane: SOUTH-bound
+Exit Time: 70
+Exit Lane: NORTH-bound
+Car #99
+Entry Time: 47
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #100
+Entry Time: 48
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #101
+Entry Time: 48
+Entry Lane: SOUTH-bound
+Exit Time: 69
+Exit Lane: WEST-bound
+Car #102
+Entry Time: 48
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #103
+Entry Time: 49
+Entry Lane: NORTH-bound
+Exit Time: 68
+Exit Lane: NORTH-bound
+Car #104
+Entry Time: 49
+Entry Lane: SOUTH-bound
+Exit Time: 70
+Exit Lane: WEST-bound
+Car #105
+Entry Time: 50
+Entry Lane: SOUTH-bound
+Exit Time: 71
+Exit Lane: SOUTH-bound
+Car #106
+Entry Time: 50
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #107
+Entry Time: 51
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #108
+Entry Time: 52
+Entry Lane: NORTH-bound
+Exit Time: 69
+Exit Lane: NORTH-bound
+Car #109
+Entry Time: 53
+Entry Lane: SOUTH-bound
+Exit Time: 72
+Exit Lane: SOUTH-bound
+Car #110
+Entry Time: 53
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #111
+Entry Time: 54
+Entry Lane: NORTH-bound
+Exit Time: 70
+Exit Lane: EAST-bound
+Car #112
+Entry Time: 54
+Entry Lane: EAST-bound
+Exit Time: 65
+Exit Lane: EAST-bound
+Car #113
+Entry Time: 54
+Entry Lane: WEST-bound
+Exit Time: 64
+Exit Lane: NORTH-bound
+Car #114
+Entry Time: 55
+Entry Lane: NORTH-bound
+Exit Time: 71
+Exit Lane: NORTH-bound
+Car #115
+Entry Time: 55
+Entry Lane: EAST-bound
+Exit Time: 65
+Exit Lane: SOUTH-bound
+Car #116
+Entry Time: 55
+Entry Lane: WEST-bound
+Exit Time: 67
+Exit Lane: SOUTH-bound
+Car #117
+Entry Time: 57
+Entry Lane: EAST-bound
+Exit Time: 78
+Exit Lane: EAST-bound
+Car #118
+Entry Time: 57
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #119
+Entry Time: 58
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #120
+Entry Time: 58
+Entry Lane: WEST-bound
+Exit Time: 79
+Exit Lane: WEST-bound
+Car #121
+Entry Time: 59
+Entry Lane: NORTH-bound
+Exit Time: 72
+Exit Lane: NORTH-bound
+Car #122
+Entry Time: 59
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #123
+Entry Time: 60
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #124
+Entry Time: 60
+Entry Lane: EAST-bound
+Exit Time: 81
+Exit Lane: NORTH-bound
+Car #125
+Entry Time: 61
+Entry Lane: EAST-bound
+Exit Time: 81
+Exit Lane: SOUTH-bound
+Car #126
+Entry Time: 61
+Entry Lane: WEST-bound
+Exit Time: 79
+Exit Lane: NORTH-bound
+Car #127
+Entry Time: 62
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #128
+Entry Time: 62
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #129
+Entry Time: 62
+Entry Lane: WEST-bound
+Exit Time: 81
+Exit Lane: WEST-bound
+Car #130
+Entry Time: 63
+Entry Lane: SOUTH-bound
+Exit Time: 73
+Exit Lane: SOUTH-bound
+Car #131
+Entry Time: 63
+Entry Lane: WEST-bound
+Exit Time: 82
+Exit Lane: WEST-bound
+Car #132
+Entry Time: 64
+Entry Lane: SOUTH-bound
+Exit Time: 74
+Exit Lane: SOUTH-bound
+Car #133
+Entry Time: 65
+Entry Lane: EAST-bound
+Exit Time: 83
+Exit Lane: EAST-bound
+Car #134
+Entry Time: 65
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #135
+Entry Time: 66
+Entry Lane: NORTH-bound
+Exit Time: 76
+Exit Lane: EAST-bound
+Car #136
+Entry Time: 66
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #137
+Entry Time: 66
+Entry Lane: SOUTH-bound
+Exit Time: 77
+Exit Lane: SOUTH-bound
+Car #138
+Entry Time: 66
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #139
+Entry Time: 67
+Entry Lane: SOUTH-bound
+Exit Time: 77
+Exit Lane: WEST-bound
+Car #140
+Entry Time: 68
+Entry Lane: NORTH-bound
+Exit Time: 90
+Exit Lane: SOUTH-bound
+Car #141
+Entry Time: 68
+Entry Lane: SOUTH-bound
+Exit Time: 89
+Exit Lane: WEST-bound
+Car #142
+Entry Time: 68
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #143
+Entry Time: 69
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #144
+Entry Time: 69
+Entry Lane: SOUTH-bound
+Exit Time: 90
+Exit Lane: SOUTH-bound
+Car #145
+Entry Time: 70
+Entry Lane: NORTH-bound
+Exit Time: 90
+Exit Lane: NORTH-bound
+Car #146
+Entry Time: 70
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #147
+Entry Time: 70
+Entry Lane: SOUTH-bound
+Exit Time: 91
+Exit Lane: WEST-bound
+Car #148
+Entry Time: 70
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #149
+Entry Time: 71
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #150
+Entry Time: 72
+Entry Lane: SOUTH-bound
+Exit Time: 92
+Exit Lane: WEST-bound
+Car #151
+Entry Time: 72
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #152
+Entry Time: 73
+Entry Lane: NORTH-bound
+Exit Time: 91
+Exit Lane: EAST-bound
+Car #153
+Entry Time: 73
+Entry Lane: EAST-bound
+Exit Time: 84
+Exit Lane: EAST-bound
+Car #154
+Entry Time: 74
+Entry Lane: NORTH-bound
+Exit Time: 92
+Exit Lane: EAST-bound
+Car #155
+Entry Time: 74
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #156
+Entry Time: 75
+Entry Lane: NORTH-bound
+Exit Time: 93
+Exit Lane: NORTH-bound
+Car #157
+Entry Time: 76
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #158
+Entry Time: 76
+Entry Lane: EAST-bound
+Exit Time: 86
+Exit Lane: SOUTH-bound
+Car #159
+Entry Time: 76
+Entry Lane: WEST-bound
+Exit Time: 86
+Exit Lane: NORTH-bound
+Car #160
+Entry Time: 77
+Entry Lane: WEST-bound
+Exit Time: 89
+Exit Lane: SOUTH-bound
+Car #161
+Entry Time: 78
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #162
+Entry Time: 78
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #163
+Entry Time: 78
+Entry Lane: WEST-bound
+Exit Time: 100
+Exit Lane: WEST-bound
+Car #164
+Entry Time: 79
+Entry Lane: EAST-bound
+Exit Time: 99
+Exit Lane: SOUTH-bound
+Car #165
+Entry Time: 79
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #166
+Entry Time: 79
+Entry Lane: WEST-bound
+Exit Time: 101
+Exit Lane: WEST-bound
+Car #167
+Entry Time: 80
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #168
+Entry Time: 80
+Entry Lane: EAST-bound
+Exit Time: 100
+Exit Lane: EAST-bound
+Car #169
+Entry Time: 80
+Entry Lane: WEST-bound
+Exit Time: 101
+Exit Lane: NORTH-bound
+Car #170
+Entry Time: 81
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #171
+Entry Time: 81
+Entry Lane: EAST-bound
+Exit Time: 101
+Exit Lane: SOUTH-bound
+Car #172
+Entry Time: 81
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #173
+Entry Time: 81
+Entry Lane: WEST-bound
+Exit Time: 103
+Exit Lane: WEST-bound
+Car #174
+Entry Time: 82
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #175
+Entry Time: 83
+Entry Lane: EAST-bound
+Exit Time: 102
+Exit Lane: SOUTH-bound
+Car #176
+Entry Time: 83
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #177
+Entry Time: 84
+Entry Lane: NORTH-bound
+Exit Time: 94
+Exit Lane: EAST-bound
+Car #178
+Entry Time: 84
+Entry Lane: EAST-bound
+Exit Time: 103
+Exit Lane: SOUTH-bound
+Car #179
+Entry Time: 84
+Entry Lane: SOUTH-bound
+Exit Time: 94
+Exit Lane: WEST-bound
+Car #180
+Entry Time: 85
+Entry Lane: NORTH-bound
+Exit Time: 95
+Exit Lane: EAST-bound
+Car #181
+Entry Time: 86
+Entry Lane: NORTH-bound
+Exit Time: 96
+Exit Lane: EAST-bound
+Car #182
+Entry Time: 86
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #183
+Entry Time: 86
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #184
+Entry Time: 88
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #185
+Entry Time: 88
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #186
+Entry Time: 89
+Entry Lane: NORTH-bound
+Exit Time: 110
+Exit Lane: EAST-bound
+Car #187
+Entry Time: 89
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #188
+Entry Time: 89
+Entry Lane: SOUTH-bound
+Exit Time: 110
+Exit Lane: WEST-bound
+Car #189
+Entry Time: 90
+Entry Lane: NORTH-bound
+Exit Time: 111
+Exit Lane: EAST-bound
+Car #190
+Entry Time: 90
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #191
+Entry Time: 90
+Entry Lane: SOUTH-bound
+Exit Time: 111
+Exit Lane: WEST-bound
+Car #192
+Entry Time: 90
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #193
+Entry Time: 91
+Entry Lane: NORTH-bound
+Exit Time: 112
+Exit Lane: EAST-bound
+Car #194
+Entry Time: 92
+Entry Lane: NORTH-bound
+Exit Time: 113
+Exit Lane: NORTH-bound
+Car #195
+Entry Time: 92
+Entry Lane: SOUTH-bound
+Exit Time: 112
+Exit Lane: WEST-bound
+Car #196
+Entry Time: 92
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #197
+Entry Time: 93
+Entry Lane: NORTH-bound
+Exit Time: 114
+Exit Lane: EAST-bound
+Car #198
+Entry Time: 93
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #199
+Entry Time: 94
+Entry Lane: EAST-bound
+Exit Time: 104
+Exit Lane: SOUTH-bound
+Car #200
+Entry Time: 95
+Entry Lane: EAST-bound
+Exit Time: 105
+Exit Lane: EAST-bound
+Car #201
+Entry Time: 95
+Entry Lane: SOUTH-bound
+Exit Time: 115
+Exit Lane: NORTH-bound
+Car #202
+Entry Time: 96
+Entry Lane: EAST-bound
+Exit Time: 106
+Exit Lane: SOUTH-bound
+Car #203
+Entry Time: 96
+Entry Lane: SOUTH-bound
+Exit Time: 114
+Exit Lane: SOUTH-bound
+Car #204
+Entry Time: 96
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #205
+Entry Time: 97
+Entry Lane: WEST-bound
+Exit Time: 108
+Exit Lane: WEST-bound
+Car #206
+Entry Time: 98
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #207
+Entry Time: 98
+Entry Lane: EAST-bound
+Exit Time: 109
+Exit Lane: EAST-bound
+Car #208
+Entry Time: 98
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #209
+Entry Time: 98
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #210
+Entry Time: 99
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #211
+Entry Time: 99
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #212
+Entry Time: 99
+Entry Lane: WEST-bound
+Exit Time: 120
+Exit Lane: NORTH-bound
+Car #213
+Entry Time: 100
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #214
+Entry Time: 100
+Entry Lane: EAST-bound
+Exit Time: 122
+Exit Lane: EAST-bound
+Car #215
+Entry Time: 100
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #216
+Entry Time: 101
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #217
+Entry Time: 101
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #218
+Entry Time: 102
+Entry Lane: EAST-bound
+Exit Time: 122
+Exit Lane: EAST-bound
+Car #219
+Entry Time: 102
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #220
+Entry Time: 104
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #221
+Entry Time: 104
+Entry Lane: EAST-bound
+Exit Time: 123
+Exit Lane: SOUTH-bound
+Car #222
+Entry Time: 104
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #223
+Entry Time: 104
+Entry Lane: WEST-bound
+Exit Time: 121
+Exit Lane: NORTH-bound
+Car #224
+Entry Time: 106
+Entry Lane: NORTH-bound
+Exit Time: 116
+Exit Lane: NORTH-bound
+Car #225
+Entry Time: 106
+Entry Lane: EAST-bound
+Exit Time: 124
+Exit Lane: SOUTH-bound
+Car #226
+Entry Time: 107
+Entry Lane: NORTH-bound
+Exit Time: 117
+Exit Lane: NORTH-bound
+Car #227
+Entry Time: 107
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #228
+Entry Time: 107
+Entry Lane: SOUTH-bound
+Exit Time: 117
+Exit Lane: WEST-bound
+Car #229
+Entry Time: 108
+Entry Lane: NORTH-bound
+Exit Time: 118
+Exit Lane: NORTH-bound
+Car #230
+Entry Time: 108
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #231
+Entry Time: 108
+Entry Lane: SOUTH-bound
+Exit Time: 118
+Exit Lane: WEST-bound
+Car #232
+Entry Time: 109
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #233
+Entry Time: 109
+Entry Lane: WEST-bound
+Exit Time: 122
+Exit Lane: NORTH-bound
+Car #234
+Entry Time: 110
+Entry Lane: NORTH-bound
+Exit Time: 131
+Exit Lane: NORTH-bound
+Car #235
+Entry Time: 111
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #236
+Entry Time: 112
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #237
+Entry Time: 113
+Entry Lane: NORTH-bound
+Exit Time: 132
+Exit Lane: NORTH-bound
+Car #238
+Entry Time: 114
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #239
+Entry Time: 114
+Entry Lane: SOUTH-bound
+Exit Time: 131
+Exit Lane: SOUTH-bound
+Car #240
+Entry Time: 114
+Entry Lane: WEST-bound
+Exit Time: 125
+Exit Lane: WEST-bound
+Car #241
+Entry Time: 115
+Entry Lane: NORTH-bound
+Exit Time: 134
+Exit Lane: SOUTH-bound
+Car #242
+Entry Time: 115
+Entry Lane: EAST-bound
+Exit Time: 126
+Exit Lane: EAST-bound
+Car #243
+Entry Time: 115
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #244
+Entry Time: 116
+Entry Lane: NORTH-bound
+Exit Time: 134
+Exit Lane: NORTH-bound
+Car #245
+Entry Time: 116
+Entry Lane: EAST-bound
+Exit Time: 126
+Exit Lane: SOUTH-bound
+Car #246
+Entry Time: 116
+Entry Lane: SOUTH-bound
+Exit Time: 133
+Exit Lane: WEST-bound
+Car #247
+Entry Time: 118
+Entry Lane: NORTH-bound
+Exit Time: 137
+Exit Lane: EAST-bound
+Car #248
+Entry Time: 118
+Entry Lane: EAST-bound
+Exit Time: 128
+Exit Lane: SOUTH-bound
+Car #249
+Entry Time: 118
+Entry Lane: SOUTH-bound
+Exit Time: 134
+Exit Lane: SOUTH-bound
+Car #250
+Entry Time: 119
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #251
+Entry Time: 119
+Entry Lane: EAST-bound
+Exit Time: 129
+Exit Lane: EAST-bound
+Car #252
+Entry Time: 119
+Entry Lane: WEST-bound
+Exit Time: 130
+Exit Lane: WEST-bound
+Car #253
+Entry Time: 120
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #254
+Entry Time: 120
+Entry Lane: WEST-bound
+Exit Time: 141
+Exit Lane: NORTH-bound
+Car #255
+Entry Time: 121
+Entry Lane: EAST-bound
+Exit Time: 141
+Exit Lane: EAST-bound
+Car #256
+Entry Time: 122
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #257
+Entry Time: 122
+Entry Lane: EAST-bound
+Exit Time: 142
+Exit Lane: EAST-bound
+Car #258
+Entry Time: 122
+Entry Lane: SOUTH-bound
+Exit Time: 136
+Exit Lane: SOUTH-bound
+Car #259
+Entry Time: 122
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #260
+Entry Time: 123
+Entry Lane: EAST-bound
+Exit Time: 143
+Exit Lane: EAST-bound
+Car #261
+Entry Time: 124
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #262
+Entry Time: 124
+Entry Lane: EAST-bound
+Exit Time: 144
+Exit Lane: SOUTH-bound
+Car #263
+Entry Time: 124
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #264
+Entry Time: 125
+Entry Lane: EAST-bound
+Exit Time: 147
+Exit Lane: WEST-bound
+Car #265
+Entry Time: 125
+Entry Lane: WEST-bound
+Exit Time: 144
+Exit Lane: WEST-bound
+Car #266
+Entry Time: 126
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #267
+Entry Time: 126
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #268
+Entry Time: 127
+Entry Lane: NORTH-bound
+Exit Time: 137
+Exit Lane: NORTH-bound
+Car #269
+Entry Time: 127
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #270
+Entry Time: 128
+Entry Lane: WEST-bound
+Exit Time: 145
+Exit Lane: WEST-bound
+Car #271
+Entry Time: 129
+Entry Lane: NORTH-bound
+Exit Time: 139
+Exit Lane: NORTH-bound
+Car #272
+Entry Time: 129
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #273
+Entry Time: 129
+Entry Lane: SOUTH-bound
+Exit Time: 139
+Exit Lane: WEST-bound
+Car #274
+Entry Time: 129
+Entry Lane: WEST-bound
+Exit Time: 146
+Exit Lane: WEST-bound
+Car #275
+Entry Time: 130
+Entry Lane: NORTH-bound
+Exit Time: 140
+Exit Lane: NORTH-bound
+Car #276
+Entry Time: 130
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #277
+Entry Time: 130
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #278
+Entry Time: 131
+Entry Lane: NORTH-bound
+Exit Time: 152
+Exit Lane: EAST-bound
+Car #279
+Entry Time: 131
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #280
+Entry Time: 131
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #281
+Entry Time: 132
+Entry Lane: NORTH-bound
+Exit Time: 153
+Exit Lane: NORTH-bound
+Car #282
+Entry Time: 132
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #283
+Entry Time: 133
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #284
+Entry Time: 134
+Entry Lane: SOUTH-bound
+Exit Time: 152
+Exit Lane: WEST-bound
+Car #285
+Entry Time: 134
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #286
+Entry Time: 135
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #287
+Entry Time: 135
+Entry Lane: SOUTH-bound
+Exit Time: 153
+Exit Lane: WEST-bound
+Car #288
+Entry Time: 135
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #289
+Entry Time: 136
+Entry Lane: NORTH-bound
+Exit Time: 154
+Exit Lane: EAST-bound
+Car #290
+Entry Time: 136
+Entry Lane: SOUTH-bound
+Exit Time: 154
+Exit Lane: WEST-bound
+Car #291
+Entry Time: 136
+Entry Lane: WEST-bound
+Exit Time: 147
+Exit Lane: WEST-bound
+Car #292
+Entry Time: 137
+Entry Lane: EAST-bound
+Exit Time: 147
+Exit Lane: SOUTH-bound
+Car #293
+Entry Time: 137
+Entry Lane: SOUTH-bound
+Exit Time: 156
+Exit Lane: SOUTH-bound
+Car #294
+Entry Time: 137
+Entry Lane: WEST-bound
+Exit Time: 147
+Exit Lane: NORTH-bound
+Car #295
+Entry Time: 138
+Entry Lane: NORTH-bound
+Exit Time: 155
+Exit Lane: EAST-bound
+Car #296
+Entry Time: 138
+Entry Lane: WEST-bound
+Exit Time: 150
+Exit Lane: SOUTH-bound
+Car #297
+Entry Time: 139
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #298
+Entry Time: 139
+Entry Lane: EAST-bound
+Exit Time: 149
+Exit Lane: EAST-bound
+Car #299
+Entry Time: 139
+Entry Lane: WEST-bound
+Exit Time: 149
+Exit Lane: NORTH-bound
+Car #300
+Entry Time: 141
+Entry Lane: EAST-bound
+Exit Time: 162
+Exit Lane: SOUTH-bound
+Car #301
+Entry Time: 141
+Entry Lane: WEST-bound
+Exit Time: 163
+Exit Lane: WEST-bound
+Car #302
+Entry Time: 142
+Entry Lane: WEST-bound
+Exit Time: 164
+Exit Lane: WEST-bound
+Car #303
+Entry Time: 144
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #304
+Entry Time: 144
+Entry Lane: EAST-bound
+Exit Time: 163
+Exit Lane: EAST-bound
+Car #305
+Entry Time: 144
+Entry Lane: SOUTH-bound
+Exit Time: 157
+Exit Lane: SOUTH-bound
+Car #306
+Entry Time: 144
+Entry Lane: WEST-bound
+Exit Time: 164
+Exit Lane: NORTH-bound
+Car #307
+Entry Time: 145
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #308
+Entry Time: 145
+Entry Lane: WEST-bound
+Exit Time: 165
+Exit Lane: NORTH-bound
+Car #309
+Entry Time: 146
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #310
+Entry Time: 146
+Entry Lane: WEST-bound
+Exit Time: 167
+Exit Lane: WEST-bound
+Car #311
+Entry Time: 147
+Entry Lane: NORTH-bound
+Exit Time: 157
+Exit Lane: NORTH-bound
+Car #312
+Entry Time: 147
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #313
+Entry Time: 148
+Entry Lane: EAST-bound
+Exit Time: 165
+Exit Lane: EAST-bound
+Car #314
+Entry Time: 148
+Entry Lane: SOUTH-bound
+Exit Time: 158
+Exit Lane: WEST-bound
+Car #315
+Entry Time: 149
+Entry Lane: NORTH-bound
+Exit Time: 162
+Exit Lane: NORTH-bound
+Car #316
+Entry Time: 149
+Entry Lane: EAST-bound
+Exit Time: 166
+Exit Lane: EAST-bound
+Car #317
+Entry Time: 150
+Entry Lane: NORTH-bound
+Exit Time: 160
+Exit Lane: NORTH-bound
+Car #318
+Entry Time: 151
+Entry Lane: NORTH-bound
+Exit Time: 161
+Exit Lane: EAST-bound
+Car #319
+Entry Time: 151
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #320
+Entry Time: 152
+Entry Lane: NORTH-bound
+Exit Time: 174
+Exit Lane: SOUTH-bound
+Car #321
+Entry Time: 152
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #322
+Entry Time: 153
+Entry Lane: SOUTH-bound
+Exit Time: 173
+Exit Lane: WEST-bound
+Car #323
+Entry Time: 153
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #324
+Entry Time: 154
+Entry Lane: NORTH-bound
+Exit Time: 174
+Exit Lane: EAST-bound
+Car #325
+Entry Time: 154
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #326
+Entry Time: 154
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #327
+Entry Time: 155
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #328
+Entry Time: 155
+Entry Lane: SOUTH-bound
+Exit Time: 174
+Exit Lane: WEST-bound
+Car #329
+Entry Time: 155
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #330
+Entry Time: 156
+Entry Lane: NORTH-bound
+Exit Time: 175
+Exit Lane: EAST-bound
+Car #331
+Entry Time: 157
+Entry Lane: NORTH-bound
+Exit Time: 177
+Exit Lane: SOUTH-bound
+Car #332
+Entry Time: 157
+Entry Lane: EAST-bound
+Exit Time: 167
+Exit Lane: EAST-bound
+Car #333
+Entry Time: 157
+Entry Lane: WEST-bound
+Exit Time: 168
+Exit Lane: WEST-bound
+Car #334
+Entry Time: 158
+Entry Lane: SOUTH-bound
+Exit Time: 175
+Exit Lane: WEST-bound
+Car #335
+Entry Time: 159
+Entry Lane: EAST-bound
+Exit Time: 169
+Exit Lane: EAST-bound
+Car #336
+Entry Time: 160
+Entry Lane: EAST-bound
+Exit Time: 171
+Exit Lane: EAST-bound
+Car #337
+Entry Time: 161
+Entry Lane: EAST-bound
+Exit Time: 171
+Exit Lane: EAST-bound
+Car #338
+Entry Time: 161
+Entry Lane: WEST-bound
+Exit Time: 172
+Exit Lane: WEST-bound
+Car #339
+Entry Time: 162
+Entry Lane: EAST-bound
+Exit Time: 183
+Exit Lane: SOUTH-bound
+Car #340
+Entry Time: 162
+Entry Lane: WEST-bound
+Exit Time: 183
+Exit Lane: NORTH-bound
+Car #341
+Entry Time: 163
+Entry Lane: EAST-bound
+Exit Time: 184
+Exit Lane: SOUTH-bound
+Car #342
+Entry Time: 163
+Entry Lane: SOUTH-bound
+Exit Time: 176
+Exit Lane: WEST-bound
+Car #343
+Entry Time: 164
+Entry Lane: NORTH-bound
+Exit Time: 180
+Exit Lane: EAST-bound
+Car #344
+Entry Time: 165
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #345
+Entry Time: 165
+Entry Lane: EAST-bound
+Exit Time: 185
+Exit Lane: SOUTH-bound
+Car #346
+Entry Time: 166
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #347
+Entry Time: 166
+Entry Lane: WEST-bound
+Exit Time: 185
+Exit Lane: WEST-bound
+Car #348
+Entry Time: 167
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #349
+Entry Time: 167
+Entry Lane: SOUTH-bound
+Exit Time: 177
+Exit Lane: SOUTH-bound
+Car #350
+Entry Time: 167
+Entry Lane: WEST-bound
+Exit Time: 185
+Exit Lane: NORTH-bound
+Car #351
+Entry Time: 168
+Entry Lane: NORTH-bound
+Exit Time: 178
+Exit Lane: EAST-bound
+Car #352
+Entry Time: 168
+Entry Lane: WEST-bound
+Exit Time: 187
+Exit Lane: WEST-bound
+Car #353
+Entry Time: 169
+Entry Lane: NORTH-bound
+Exit Time: 179
+Exit Lane: EAST-bound
+Car #354
+Entry Time: 169
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #355
+Entry Time: 169
+Entry Lane: SOUTH-bound
+Exit Time: 181
+Exit Lane: NORTH-bound
+Car #356
+Entry Time: 169
+Entry Lane: WEST-bound
+Exit Time: 187
+Exit Lane: NORTH-bound
+Car #357
+Entry Time: 170
+Entry Lane: SOUTH-bound
+Exit Time: 180
+Exit Lane: WEST-bound
+Car #358
+Entry Time: 171
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #359
+Entry Time: 172
+Entry Lane: NORTH-bound
+Exit Time: 182
+Exit Lane: EAST-bound
+Car #360
+Entry Time: 173
+Entry Lane: EAST-bound
+Exit Time: 187
+Exit Lane: EAST-bound
+Car #361
+Entry Time: 173
+Entry Lane: SOUTH-bound
+Exit Time: 194
+Exit Lane: WEST-bound
+Car #362
+Entry Time: 173
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #363
+Entry Time: 174
+Entry Lane: NORTH-bound
+Exit Time: 194
+Exit Lane: NORTH-bound
+Car #364
+Entry Time: 174
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #365
+Entry Time: 175
+Entry Lane: NORTH-bound
+Exit Time: 195
+Exit Lane: NORTH-bound
+Car #366
+Entry Time: 175
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #367
+Entry Time: 175
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #368
+Entry Time: 176
+Entry Lane: NORTH-bound
+Exit Time: 197
+Exit Lane: SOUTH-bound
+Car #369
+Entry Time: 176
+Entry Lane: SOUTH-bound
+Exit Time: 199
+Exit Lane: SOUTH-bound
+Car #370
+Entry Time: 178
+Entry Lane: EAST-bound
+Exit Time: 188
+Exit Lane: EAST-bound
+Car #371
+Entry Time: 178
+Entry Lane: SOUTH-bound
+Exit Time: 196
+Exit Lane: WEST-bound
+Car #372
+Entry Time: 178
+Entry Lane: WEST-bound
+Exit Time: 188
+Exit Lane: NORTH-bound
+Car #373
+Entry Time: 179
+Entry Lane: EAST-bound
+Exit Time: 189
+Exit Lane: EAST-bound
+Car #374
+Entry Time: 179
+Entry Lane: SOUTH-bound
+Exit Time: 197
+Exit Lane: WEST-bound
+Car #375
+Entry Time: 179
+Entry Lane: WEST-bound
+Exit Time: 189
+Exit Lane: NORTH-bound
+Car #376
+Entry Time: 180
+Entry Lane: SOUTH-bound
+Exit Time: 198
+Exit Lane: WEST-bound
+Car #377
+Entry Time: 181
+Entry Lane: NORTH-bound
+Exit Time: 197
+Exit Lane: NORTH-bound
+Car #378
+Entry Time: 181
+Entry Lane: EAST-bound
+Exit Time: 191
+Exit Lane: EAST-bound
+Car #379
+Entry Time: 181
+Entry Lane: WEST-bound
+Exit Time: 192
+Exit Lane: WEST-bound
+Car #380
+Entry Time: 182
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #381
+Entry Time: 182
+Entry Lane: WEST-bound
+Exit Time: 193
+Exit Lane: WEST-bound
+Car #382
+Entry Time: 184
+Entry Lane: NORTH-bound
+Exit Time: 198
+Exit Lane: EAST-bound
+Car #383
+Entry Time: 184
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #384
+Entry Time: 184
+Entry Lane: WEST-bound
+Exit Time: 205
+Exit Lane: WEST-bound
+Car #385
+Entry Time: 185
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #386
+Entry Time: 185
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #387
+Entry Time: 186
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #388
+Entry Time: 186
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #389
+Entry Time: 186
+Entry Lane: WEST-bound
+Exit Time: 205
+Exit Lane: NORTH-bound
+Car #390
+Entry Time: 187
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #391
+Entry Time: 187
+Entry Lane: WEST-bound
+Exit Time: 207
+Exit Lane: WEST-bound
+Car #392
+Entry Time: 188
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #393
+Entry Time: 188
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #394
+Entry Time: 188
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #395
+Entry Time: 189
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #396
+Entry Time: 189
+Entry Lane: WEST-bound
+Exit Time: 207
+Exit Lane: NORTH-bound
+Car #397
+Entry Time: 190
+Entry Lane: NORTH-bound
+Exit Time: 200
+Exit Lane: EAST-bound
+Car #398
+Entry Time: 190
+Entry Lane: SOUTH-bound
+Exit Time: 200
+Exit Lane: SOUTH-bound
+Car #399
+Entry Time: 190
+Entry Lane: WEST-bound
+Exit Time: 208
+Exit Lane: NORTH-bound
+Car #400
+Entry Time: 192
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #401
+Entry Time: 192
+Entry Lane: SOUTH-bound
+Exit Time: 202
+Exit Lane: WEST-bound
+Car #402
+Entry Time: 193
+Entry Lane: EAST-bound
+Exit Time: 209
+Exit Lane: EAST-bound
+Car #403
+Entry Time: 193
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #404
+Entry Time: 193
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #405
+Entry Time: 194
+Entry Lane: NORTH-bound
+Exit Time: 215
+Exit Lane: NORTH-bound
+Car #406
+Entry Time: 194
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #407
+Entry Time: 195
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #408
+Entry Time: 195
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #409
+Entry Time: 196
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #410
+Entry Time: 196
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #411
+Entry Time: 198
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #412
+Entry Time: 199
+Entry Lane: NORTH-bound
+Exit Time: 216
+Exit Lane: EAST-bound
+Car #413
+Entry Time: 199
+Entry Lane: SOUTH-bound
+Exit Time: 217
+Exit Lane: WEST-bound
+Car #414
+Entry Time: 199
+Entry Lane: WEST-bound
+Exit Time: 209
+Exit Lane: NORTH-bound
+Car #415
+Entry Time: 200
+Entry Lane: NORTH-bound
+Exit Time: 217
+Exit Lane: EAST-bound
+Car #416
+Entry Time: 201
+Entry Lane: NORTH-bound
+Exit Time: 218
+Exit Lane: NORTH-bound
+Car #417
+Entry Time: 201
+Entry Lane: EAST-bound
+Exit Time: 211
+Exit Lane: SOUTH-bound
+Car #418
+Entry Time: 201
+Entry Lane: SOUTH-bound
+Exit Time: 216
+Exit Lane: WEST-bound
+Car #419
+Entry Time: 202
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #420
+Entry Time: 203
+Entry Lane: NORTH-bound
+Exit Time: 219
+Exit Lane: EAST-bound
+Car #421
+Entry Time: 203
+Entry Lane: EAST-bound
+Exit Time: 213
+Exit Lane: SOUTH-bound
+Car #422
+Entry Time: 203
+Entry Lane: WEST-bound
+Exit Time: 213
+Exit Lane: NORTH-bound
+Car #423
+Entry Time: 204
+Entry Lane: SOUTH-bound
+Exit Time: 217
+Exit Lane: SOUTH-bound
+Car #424
+Entry Time: 205
+Entry Lane: EAST-bound
+Exit Time: 225
+Exit Lane: EAST-bound
+Car #425
+Entry Time: 205
+Entry Lane: WEST-bound
+Exit Time: 226
+Exit Lane: WEST-bound
+Car #426
+Entry Time: 206
+Entry Lane: EAST-bound
+Exit Time: 226
+Exit Lane: SOUTH-bound
+Car #427
+Entry Time: 206
+Entry Lane: SOUTH-bound
+Exit Time: 223
+Exit Lane: NORTH-bound
+Car #428
+Entry Time: 207
+Entry Lane: WEST-bound
+Exit Time: 227
+Exit Lane: WEST-bound
+Car #429
+Entry Time: 208
+Entry Lane: EAST-bound
+Exit Time: 227
+Exit Lane: SOUTH-bound
+Car #430
+Entry Time: 208
+Entry Lane: SOUTH-bound
+Exit Time: 219
+Exit Lane: SOUTH-bound
+Car #431
+Entry Time: 208
+Entry Lane: WEST-bound
+Exit Time: 228
+Exit Lane: WEST-bound
+Car #432
+Entry Time: 209
+Entry Lane: EAST-bound
+Exit Time: 228
+Exit Lane: EAST-bound
+Car #433
+Entry Time: 210
+Entry Lane: NORTH-bound
+Exit Time: 220
+Exit Lane: NORTH-bound
+Car #434
+Entry Time: 210
+Entry Lane: WEST-bound
+Exit Time: 229
+Exit Lane: WEST-bound
+Car #435
+Entry Time: 211
+Entry Lane: NORTH-bound
+Exit Time: 221
+Exit Lane: EAST-bound
+Car #436
+Entry Time: 212
+Entry Lane: EAST-bound
+Exit Time: 229
+Exit Lane: EAST-bound
+Car #437
+Entry Time: 213
+Entry Lane: NORTH-bound
+Exit Time: 223
+Exit Lane: EAST-bound
+Car #438
+Entry Time: 213
+Entry Lane: SOUTH-bound
+Exit Time: 224
+Exit Lane: SOUTH-bound
+Car #439
+Entry Time: 214
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #440
+Entry Time: 215
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #441
+Entry Time: 216
+Entry Lane: NORTH-bound
+Exit Time: 236
+Exit Lane: EAST-bound
+Car #442
+Entry Time: 216
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #443
+Entry Time: 216
+Entry Lane: SOUTH-bound
+Exit Time: 236
+Exit Lane: WEST-bound
+Car #444
+Entry Time: 216
+Entry Lane: WEST-bound
+Exit Time: 230
+Exit Lane: WEST-bound
+Car #445
+Entry Time: 217
+Entry Lane: NORTH-bound
+Exit Time: 237
+Exit Lane: EAST-bound
+Car #446
+Entry Time: 217
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #447
+Entry Time: 218
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #448
+Entry Time: 219
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #449
+Entry Time: 219
+Entry Lane: SOUTH-bound
+Exit Time: 237
+Exit Lane: WEST-bound
+Car #450
+Entry Time: 219
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #451
+Entry Time: 220
+Entry Lane: NORTH-bound
+Exit Time: 238
+Exit Lane: EAST-bound
+Car #452
+Entry Time: 220
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #453
+Entry Time: 221
+Entry Lane: NORTH-bound
+Exit Time: 239
+Exit Lane: NORTH-bound
+Car #454
+Entry Time: 221
+Entry Lane: EAST-bound
+Exit Time: 231
+Exit Lane: EAST-bound
+Car #455
+Entry Time: 221
+Entry Lane: SOUTH-bound
+Exit Time: 238
+Exit Lane: SOUTH-bound
+Car #456
+Entry Time: 222
+Entry Lane: EAST-bound
+Exit Time: 232
+Exit Lane: EAST-bound
+Car #457
+Entry Time: 222
+Entry Lane: WEST-bound
+Exit Time: 233
+Exit Lane: WEST-bound
+Car #458
+Entry Time: 223
+Entry Lane: EAST-bound
+Exit Time: 233
+Exit Lane: SOUTH-bound
+Car #459
+Entry Time: 224
+Entry Lane: NORTH-bound
+Exit Time: 240
+Exit Lane: NORTH-bound
+Car #460
+Entry Time: 224
+Entry Lane: EAST-bound
+Exit Time: 234
+Exit Lane: EAST-bound
+Car #461
+Entry Time: 224
+Entry Lane: SOUTH-bound
+Exit Time: 239
+Exit Lane: WEST-bound
+Car #462
+Entry Time: 225
+Entry Lane: SOUTH-bound
+Exit Time: 240
+Exit Lane: SOUTH-bound
+Car #463
+Entry Time: 225
+Entry Lane: WEST-bound
+Exit Time: 247
+Exit Lane: WEST-bound
+Car #464
+Entry Time: 226
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #465
+Entry Time: 226
+Entry Lane: EAST-bound
+Exit Time: 246
+Exit Lane: SOUTH-bound
+Car #466
+Entry Time: 226
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #467
+Entry Time: 226
+Entry Lane: WEST-bound
+Exit Time: 247
+Exit Lane: NORTH-bound
+Car #468
+Entry Time: 227
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #469
+Entry Time: 227
+Entry Lane: EAST-bound
+Exit Time: 247
+Exit Lane: EAST-bound
+Car #470
+Entry Time: 227
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #471
+Entry Time: 228
+Entry Lane: EAST-bound
+Exit Time: 248
+Exit Lane: SOUTH-bound
+Car #472
+Entry Time: 228
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #473
+Entry Time: 229
+Entry Lane: WEST-bound
+Exit Time: 249
+Exit Lane: WEST-bound
+Car #474
+Entry Time: 230
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #475
+Entry Time: 230
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #476
+Entry Time: 230
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #477
+Entry Time: 231
+Entry Lane: NORTH-bound
+Exit Time: 242
+Exit Lane: SOUTH-bound
+Car #478
+Entry Time: 231
+Entry Lane: EAST-bound
+Exit Time: 251
+Exit Lane: EAST-bound
+Car #479
+Entry Time: 232
+Entry Lane: NORTH-bound
+Exit Time: 242
+Exit Lane: EAST-bound
+Car #480
+Entry Time: 232
+Entry Lane: SOUTH-bound
+Exit Time: 242
+Exit Lane: WEST-bound
+Car #481
+Entry Time: 232
+Entry Lane: WEST-bound
+Exit Time: 250
+Exit Lane: WEST-bound
+Car #482
+Entry Time: 233
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #483
+Entry Time: 234
+Entry Lane: SOUTH-bound
+Exit Time: 244
+Exit Lane: WEST-bound
+Car #484
+Entry Time: 235
+Entry Lane: NORTH-bound
+Exit Time: 245
+Exit Lane: EAST-bound
+Car #485
+Entry Time: 237
+Entry Lane: NORTH-bound
+Exit Time: 257
+Exit Lane: NORTH-bound
+Car #486
+Entry Time: 237
+Entry Lane: WEST-bound
+Exit Time: 250
+Exit Lane: NORTH-bound
+Car #487
+Entry Time: 238
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #488
+Entry Time: 238
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #489
+Entry Time: 239
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #490
+Entry Time: 239
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #491
+Entry Time: 240
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #492
+Entry Time: 241
+Entry Lane: WEST-bound
+Exit Time: 252
+Exit Lane: WEST-bound
+Car #493
+Entry Time: 242
+Entry Lane: SOUTH-bound
+Exit Time: 259
+Exit Lane: SOUTH-bound
+Car #494
+Entry Time: 242
+Entry Lane: WEST-bound
+Exit Time: 253
+Exit Lane: WEST-bound
+Car #495
+Entry Time: 243
+Entry Lane: NORTH-bound
+Exit Time: 258
+Exit Lane: NORTH-bound
+Car #496
+Entry Time: 243
+Entry Lane: SOUTH-bound
+Exit Time: 260
+Exit Lane: SOUTH-bound
+Car #497
+Entry Time: 243
+Entry Lane: WEST-bound
+Exit Time: 255
+Exit Lane: SOUTH-bound
+Car #498
+Entry Time: 244
+Entry Lane: NORTH-bound
+Exit Time: 259
+Exit Lane: EAST-bound
+Car #499
+Entry Time: 245
+Entry Lane: EAST-bound
+Exit Time: 255
+Exit Lane: EAST-bound
+Car #500
+Entry Time: 246
+Entry Lane: EAST-bound
+Exit Time: 267
+Exit Lane: EAST-bound
+Car #501
+Entry Time: 246
+Entry Lane: SOUTH-bound
+Exit Time: 261
+Exit Lane: SOUTH-bound
+Car #502
+Entry Time: 247
+Entry Lane: EAST-bound
+Exit Time: 268
+Exit Lane: SOUTH-bound
+Car #503
+Entry Time: 247
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #504
+Entry Time: 248
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #505
+Entry Time: 248
+Entry Lane: WEST-bound
+Exit Time: 268
+Exit Lane: WEST-bound
+Car #506
+Entry Time: 250
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #507
+Entry Time: 251
+Entry Lane: NORTH-bound
+Exit Time: 261
+Exit Lane: EAST-bound
+Car #508
+Entry Time: 251
+Entry Lane: EAST-bound
+Exit Time: 270
+Exit Lane: SOUTH-bound
+Car #509
+Entry Time: 251
+Entry Lane: WEST-bound
+Exit Time: 269
+Exit Lane: WEST-bound
+Car #510
+Entry Time: 252
+Entry Lane: NORTH-bound
+Exit Time: 262
+Exit Lane: EAST-bound
+Car #511
+Entry Time: 252
+Entry Lane: EAST-bound
+Exit Time: 271
+Exit Lane: SOUTH-bound
+Car #512
+Entry Time: 252
+Entry Lane: WEST-bound
+Exit Time: 270
+Exit Lane: WEST-bound
+Car #513
+Entry Time: 253
+Entry Lane: SOUTH-bound
+Exit Time: 263
+Exit Lane: WEST-bound
+Car #514
+Entry Time: 253
+Entry Lane: WEST-bound
+Exit Time: 270
+Exit Lane: NORTH-bound
+Car #515
+Entry Time: 254
+Entry Lane: NORTH-bound
+Exit Time: 264
+Exit Lane: NORTH-bound
+Car #516
+Entry Time: 254
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #517
+Entry Time: 254
+Entry Lane: WEST-bound
+Exit Time: 271
+Exit Lane: NORTH-bound
+Car #518
+Entry Time: 255
+Entry Lane: NORTH-bound
+Exit Time: 267
+Exit Lane: EAST-bound
+Car #519
+Entry Time: 255
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #520
+Entry Time: 255
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #521
+Entry Time: 256
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #522
+Entry Time: 257
+Entry Lane: NORTH-bound
+Exit Time: 278
+Exit Lane: NORTH-bound
+Car #523
+Entry Time: 257
+Entry Lane: SOUTH-bound
+Exit Time: 279
+Exit Lane: SOUTH-bound
+Car #524
+Entry Time: 257
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #525
+Entry Time: 258
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #526
+Entry Time: 258
+Entry Lane: SOUTH-bound
+Exit Time: 280
+Exit Lane: SOUTH-bound
+Car #527
+Entry Time: 258
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #528
+Entry Time: 259
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #529
+Entry Time: 260
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #530
+Entry Time: 260
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #531
+Entry Time: 260
+Entry Lane: SOUTH-bound
+Exit Time: 280
+Exit Lane: WEST-bound
+Car #532
+Entry Time: 261
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #533
+Entry Time: 261
+Entry Lane: SOUTH-bound
+Exit Time: 281
+Exit Lane: WEST-bound
+Car #534
+Entry Time: 262
+Entry Lane: NORTH-bound
+Exit Time: 281
+Exit Lane: EAST-bound
+Car #535
+Entry Time: 262
+Entry Lane: EAST-bound
+Exit Time: 272
+Exit Lane: EAST-bound
+Car #536
+Entry Time: 262
+Entry Lane: SOUTH-bound
+Exit Time: 282
+Exit Lane: WEST-bound
+Car #537
+Entry Time: 262
+Entry Lane: WEST-bound
+Exit Time: 273
+Exit Lane: WEST-bound
+Car #538
+Entry Time: 263
+Entry Lane: NORTH-bound
+Exit Time: 282
+Exit Lane: NORTH-bound
+Car #539
+Entry Time: 263
+Entry Lane: EAST-bound
+Exit Time: 273
+Exit Lane: EAST-bound
+Car #540
+Entry Time: 263
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #541
+Entry Time: 264
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #542
+Entry Time: 264
+Entry Lane: EAST-bound
+Exit Time: 274
+Exit Lane: SOUTH-bound
+Car #543
+Entry Time: 265
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #544
+Entry Time: 265
+Entry Lane: EAST-bound
+Exit Time: 275
+Exit Lane: EAST-bound
+Car #545
+Entry Time: 265
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #546
+Entry Time: 265
+Entry Lane: WEST-bound
+Exit Time: 276
+Exit Lane: WEST-bound
+Car #547
+Entry Time: 266
+Entry Lane: EAST-bound
+Exit Time: 276
+Exit Lane: EAST-bound
+Car #548
+Entry Time: 266
+Entry Lane: WEST-bound
+Exit Time: 277
+Exit Lane: WEST-bound
+Car #549
+Entry Time: 269
+Entry Lane: EAST-bound
+Exit Time: 289
+Exit Lane: EAST-bound
+Car #550
+Entry Time: 269
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #551
+Entry Time: 269
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #552
+Entry Time: 270
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #553
+Entry Time: 270
+Entry Lane: EAST-bound
+Exit Time: 289
+Exit Lane: EAST-bound
+Car #554
+Entry Time: 270
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #555
+Entry Time: 270
+Entry Lane: WEST-bound
+Exit Time: 290
+Exit Lane: WEST-bound
+Car #556
+Entry Time: 271
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #557
+Entry Time: 272
+Entry Lane: WEST-bound
+Exit Time: 290
+Exit Lane: NORTH-bound
+Car #558
+Entry Time: 273
+Entry Lane: SOUTH-bound
+Exit Time: 285
+Exit Lane: WEST-bound
+Car #559
+Entry Time: 274
+Entry Lane: NORTH-bound
+Exit Time: 284
+Exit Lane: NORTH-bound
+Car #560
+Entry Time: 274
+Entry Lane: EAST-bound
+Exit Time: 290
+Exit Lane: EAST-bound
+Car #561
+Entry Time: 274
+Entry Lane: SOUTH-bound
+Exit Time: 284
+Exit Lane: WEST-bound
+Car #562
+Entry Time: 275
+Entry Lane: EAST-bound
+Exit Time: 292
+Exit Lane: EAST-bound
+Car #563
+Entry Time: 275
+Entry Lane: SOUTH-bound
+Exit Time: 286
+Exit Lane: SOUTH-bound
+Car #564
+Entry Time: 275
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #565
+Entry Time: 277
+Entry Lane: NORTH-bound
+Exit Time: 287
+Exit Lane: EAST-bound
+Car #566
+Entry Time: 277
+Entry Lane: SOUTH-bound
+Exit Time: 287
+Exit Lane: WEST-bound
+Car #567
+Entry Time: 278
+Entry Lane: NORTH-bound
+Exit Time: 299
+Exit Lane: NORTH-bound
+Car #568
+Entry Time: 278
+Entry Lane: WEST-bound
+Exit Time: 293
+Exit Lane: WEST-bound
+Car #569
+Entry Time: 279
+Entry Lane: NORTH-bound
+Exit Time: 300
+Exit Lane: EAST-bound
+Car #570
+Entry Time: 279
+Entry Lane: SOUTH-bound
+Exit Time: 301
+Exit Lane: NORTH-bound
+Car #571
+Entry Time: 279
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #572
+Entry Time: 280
+Entry Lane: NORTH-bound
+Exit Time: 301
+Exit Lane: EAST-bound
+Car #573
+Entry Time: 280
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #574
+Entry Time: 281
+Entry Lane: NORTH-bound
+Exit Time: 302
+Exit Lane: EAST-bound
+Car #575
+Entry Time: 281
+Entry Lane: EAST-bound
+Exit Time: 292
+Exit Lane: SOUTH-bound
+Car #576
+Entry Time: 281
+Entry Lane: SOUTH-bound
+Exit Time: 300
+Exit Lane: SOUTH-bound
+Car #577
+Entry Time: 281
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #578
+Entry Time: 282
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #579
+Entry Time: 282
+Entry Lane: SOUTH-bound
+Exit Time: 301
+Exit Lane: WEST-bound
+Car #580
+Entry Time: 282
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #581
+Entry Time: 283
+Entry Lane: SOUTH-bound
+Exit Time: 302
+Exit Lane: SOUTH-bound
+Car #582
+Entry Time: 284
+Entry Lane: NORTH-bound
+Exit Time: 306
+Exit Lane: NORTH-bound
+Car #583
+Entry Time: 284
+Entry Lane: WEST-bound
+Exit Time: 295
+Exit Lane: WEST-bound
+Car #584
+Entry Time: 285
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #585
+Entry Time: 285
+Entry Lane: EAST-bound
+Exit Time: 296
+Exit Lane: EAST-bound
+Car #586
+Entry Time: 285
+Entry Lane: SOUTH-bound
+Exit Time: 303
+Exit Lane: WEST-bound
+Car #587
+Entry Time: 286
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #588
+Entry Time: 286
+Entry Lane: EAST-bound
+Exit Time: 296
+Exit Lane: EAST-bound
+Car #589
+Entry Time: 286
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #590
+Entry Time: 287
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #591
+Entry Time: 287
+Entry Lane: WEST-bound
+Exit Time: 298
+Exit Lane: WEST-bound
+Car #592
+Entry Time: 288
+Entry Lane: EAST-bound
+Exit Time: 309
+Exit Lane: EAST-bound
+Car #593
+Entry Time: 288
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #594
+Entry Time: 288
+Entry Lane: WEST-bound
+Exit Time: 309
+Exit Lane: NORTH-bound
+Car #595
+Entry Time: 289
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #596
+Entry Time: 290
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #597
+Entry Time: 290
+Entry Lane: EAST-bound
+Exit Time: 310
+Exit Lane: EAST-bound
+Car #598
+Entry Time: 290
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #599
+Entry Time: 291
+Entry Lane: EAST-bound
+Exit Time: 311
+Exit Lane: EAST-bound
+Car #600
+Entry Time: 292
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #601
+Entry Time: 292
+Entry Lane: EAST-bound
+Exit Time: 313
+Exit Lane: EAST-bound
+Car #602
+Entry Time: 292
+Entry Lane: WEST-bound
+Exit Time: 311
+Exit Lane: WEST-bound
+Car #603
+Entry Time: 293
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #604
+Entry Time: 293
+Entry Lane: EAST-bound
+Exit Time: 313
+Exit Lane: SOUTH-bound
+Car #605
+Entry Time: 293
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #606
+Entry Time: 293
+Entry Lane: WEST-bound
+Exit Time: 312
+Exit Lane: WEST-bound
+Car #607
+Entry Time: 294
+Entry Lane: NORTH-bound
+Exit Time: 304
+Exit Lane: EAST-bound
+Car #608
+Entry Time: 295
+Entry Lane: SOUTH-bound
+Exit Time: 306
+Exit Lane: SOUTH-bound
+Car #609
+Entry Time: 295
+Entry Lane: WEST-bound
+Exit Time: 312
+Exit Lane: NORTH-bound
+Car #610
+Entry Time: 296
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #611
+Entry Time: 296
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #612
+Entry Time: 296
+Entry Lane: WEST-bound
+Exit Time: 313
+Exit Lane: NORTH-bound
+Car #613
+Entry Time: 297
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #614
+Entry Time: 298
+Entry Lane: NORTH-bound
+Exit Time: 308
+Exit Lane: EAST-bound
+Car #615
+Entry Time: 298
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #616
+Entry Time: 299
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #617
+Entry Time: 300
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #618
+Entry Time: 300
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #619
+Entry Time: 301
+Entry Lane: NORTH-bound
+Exit Time: 320
+Exit Lane: EAST-bound
+Car #620
+Entry Time: 301
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #621
+Entry Time: 301
+Entry Lane: SOUTH-bound
+Exit Time: 320
+Exit Lane: SOUTH-bound
+Car #622
+Entry Time: 301
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #623
+Entry Time: 302
+Entry Lane: SOUTH-bound
+Exit Time: 321
+Exit Lane: SOUTH-bound
+Car #624
+Entry Time: 302
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #625
+Entry Time: 303
+Entry Lane: NORTH-bound
+Exit Time: 321
+Exit Lane: NORTH-bound
+Car #626
+Entry Time: 303
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #627
+Entry Time: 303
+Entry Lane: SOUTH-bound
+Exit Time: 322
+Exit Lane: WEST-bound
+Car #628
+Entry Time: 303
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #629
+Entry Time: 304
+Entry Lane: EAST-bound
+Exit Time: 314
+Exit Lane: EAST-bound
+Car #630
+Entry Time: 306
+Entry Lane: EAST-bound
+Exit Time: 316
+Exit Lane: EAST-bound
+Car #631
+Entry Time: 306
+Entry Lane: WEST-bound
+Exit Time: 317
+Exit Lane: WEST-bound
+Car #632
+Entry Time: 307
+Entry Lane: NORTH-bound
+Exit Time: 322
+Exit Lane: EAST-bound
+Car #633
+Entry Time: 307
+Entry Lane: EAST-bound
+Exit Time: 317
+Exit Lane: EAST-bound
+Car #634
+Entry Time: 307
+Entry Lane: SOUTH-bound
+Exit Time: 323
+Exit Lane: SOUTH-bound
+Car #635
+Entry Time: 308
+Entry Lane: SOUTH-bound
+Exit Time: 324
+Exit Lane: SOUTH-bound
+Car #636
+Entry Time: 309
+Entry Lane: NORTH-bound
+Exit Time: 323
+Exit Lane: EAST-bound
+Car #637
+Entry Time: 309
+Entry Lane: WEST-bound
+Exit Time: 330
+Exit Lane: NORTH-bound
+Car #638
+Entry Time: 311
+Entry Lane: NORTH-bound
+Exit Time: 327
+Exit Lane: NORTH-bound
+Car #639
+Entry Time: 311
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #640
+Entry Time: 311
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #641
+Entry Time: 312
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #642
+Entry Time: 312
+Entry Lane: EAST-bound
+Exit Time: 330
+Exit Lane: SOUTH-bound
+Car #643
+Entry Time: 312
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #644
+Entry Time: 312
+Entry Lane: WEST-bound
+Exit Time: 332
+Exit Lane: NORTH-bound
+Car #645
+Entry Time: 313
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #646
+Entry Time: 313
+Entry Lane: WEST-bound
+Exit Time: 335
+Exit Lane: SOUTH-bound
+Car #647
+Entry Time: 314
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #648
+Entry Time: 314
+Entry Lane: EAST-bound
+Exit Time: 332
+Exit Lane: EAST-bound
+Car #649
+Entry Time: 315
+Entry Lane: NORTH-bound
+Exit Time: 325
+Exit Lane: EAST-bound
+Car #650
+Entry Time: 316
+Entry Lane: EAST-bound
+Exit Time: 332
+Exit Lane: EAST-bound
+Car #651
+Entry Time: 316
+Entry Lane: SOUTH-bound
+Exit Time: 328
+Exit Lane: NORTH-bound
+Car #652
+Entry Time: 316
+Entry Lane: WEST-bound
+Exit Time: 336
+Exit Lane: SOUTH-bound
+Car #653
+Entry Time: 318
+Entry Lane: NORTH-bound
+Exit Time: 328
+Exit Lane: NORTH-bound
+Car #654
+Entry Time: 318
+Entry Lane: SOUTH-bound
+Exit Time: 328
+Exit Lane: SOUTH-bound
+Car #655
+Entry Time: 320
+Entry Lane: NORTH-bound
+Exit Time: 341
+Exit Lane: EAST-bound
+Car #656
+Entry Time: 320
+Entry Lane: EAST-bound
+Exit Time: 334
+Exit Lane: EAST-bound
+Car #657
+Entry Time: 320
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #658
+Entry Time: 321
+Entry Lane: EAST-bound
+Exit Time: 334
+Exit Lane: EAST-bound
+Car #659
+Entry Time: 321
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #660
+Entry Time: 323
+Entry Lane: NORTH-bound
+Exit Time: 343
+Exit Lane: SOUTH-bound
+Car #661
+Entry Time: 323
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #662
+Entry Time: 323
+Entry Lane: SOUTH-bound
+Exit Time: 341
+Exit Lane: WEST-bound
+Car #663
+Entry Time: 324
+Entry Lane: NORTH-bound
+Exit Time: 343
+Exit Lane: EAST-bound
+Car #664
+Entry Time: 324
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #665
+Entry Time: 324
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #666
+Entry Time: 325
+Entry Lane: WEST-bound
+Exit Time: 335
+Exit Lane: NORTH-bound
+Car #667
+Entry Time: 326
+Entry Lane: NORTH-bound
+Exit Time: 345
+Exit Lane: SOUTH-bound
+Car #668
+Entry Time: 327
+Entry Lane: NORTH-bound
+Exit Time: 345
+Exit Lane: EAST-bound
+Car #669
+Entry Time: 327
+Entry Lane: EAST-bound
+Exit Time: 337
+Exit Lane: EAST-bound
+Car #670
+Entry Time: 327
+Entry Lane: SOUTH-bound
+Exit Time: 342
+Exit Lane: WEST-bound
+Car #671
+Entry Time: 328
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #672
+Entry Time: 328
+Entry Lane: EAST-bound
+Exit Time: 338
+Exit Lane: EAST-bound
+Car #673
+Entry Time: 328
+Entry Lane: SOUTH-bound
+Exit Time: 343
+Exit Lane: SOUTH-bound
+Car #674
+Entry Time: 329
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #675
+Entry Time: 329
+Entry Lane: EAST-bound
+Exit Time: 339
+Exit Lane: SOUTH-bound
+Car #676
+Entry Time: 329
+Entry Lane: WEST-bound
+Exit Time: 340
+Exit Lane: WEST-bound
+Car #677
+Entry Time: 330
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #678
+Entry Time: 330
+Entry Lane: EAST-bound
+Exit Time: 351
+Exit Lane: EAST-bound
+Car #679
+Entry Time: 330
+Entry Lane: WEST-bound
+Exit Time: 352
+Exit Lane: WEST-bound
+Car #680
+Entry Time: 331
+Entry Lane: EAST-bound
+Exit Time: 352
+Exit Lane: SOUTH-bound
+Car #681
+Entry Time: 331
+Entry Lane: SOUTH-bound
+Exit Time: 346
+Exit Lane: NORTH-bound
+Car #682
+Entry Time: 331
+Entry Lane: WEST-bound
+Exit Time: 353
+Exit Lane: WEST-bound
+Car #683
+Entry Time: 332
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #684
+Entry Time: 332
+Entry Lane: SOUTH-bound
+Exit Time: 345
+Exit Lane: WEST-bound
+Car #685
+Entry Time: 332
+Entry Lane: WEST-bound
+Exit Time: 354
+Exit Lane: WEST-bound
+Car #686
+Entry Time: 334
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #687
+Entry Time: 334
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #688
+Entry Time: 335
+Entry Lane: EAST-bound
+Exit Time: 353
+Exit Lane: EAST-bound
+Car #689
+Entry Time: 336
+Entry Lane: NORTH-bound
+Exit Time: 346
+Exit Lane: NORTH-bound
+Car #690
+Entry Time: 336
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #691
+Entry Time: 336
+Entry Lane: SOUTH-bound
+Exit Time: 347
+Exit Lane: SOUTH-bound
+Car #692
+Entry Time: 336
+Entry Lane: WEST-bound
+Exit Time: 355
+Exit Lane: WEST-bound
+Car #693
+Entry Time: 337
+Entry Lane: SOUTH-bound
+Exit Time: 347
+Exit Lane: WEST-bound
+Car #694
+Entry Time: 338
+Entry Lane: NORTH-bound
+Exit Time: 348
+Exit Lane: NORTH-bound
+Car #695
+Entry Time: 338
+Entry Lane: WEST-bound
+Exit Time: 355
+Exit Lane: NORTH-bound
+Car #696
+Entry Time: 339
+Entry Lane: NORTH-bound
+Exit Time: 351
+Exit Lane: EAST-bound
+Car #697
+Entry Time: 339
+Entry Lane: EAST-bound
+Exit Time: 355
+Exit Lane: SOUTH-bound
+Car #698
+Entry Time: 339
+Entry Lane: SOUTH-bound
+Exit Time: 349
+Exit Lane: WEST-bound
+Car #699
+Entry Time: 339
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #700
+Entry Time: 340
+Entry Lane: NORTH-bound
+Exit Time: 350
+Exit Lane: EAST-bound
+Car #701
+Entry Time: 340
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #702
+Entry Time: 340
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #703
+Entry Time: 341
+Entry Lane: NORTH-bound
+Exit Time: 362
+Exit Lane: EAST-bound
+Car #704
+Entry Time: 341
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #705
+Entry Time: 341
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #706
+Entry Time: 342
+Entry Lane: NORTH-bound
+Exit Time: 363
+Exit Lane: NORTH-bound
+Car #707
+Entry Time: 343
+Entry Lane: NORTH-bound
+Exit Time: 364
+Exit Lane: NORTH-bound
+Car #708
+Entry Time: 343
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #709
+Entry Time: 343
+Entry Lane: SOUTH-bound
+Exit Time: 363
+Exit Lane: SOUTH-bound
+Car #710
+Entry Time: 344
+Entry Lane: NORTH-bound
+Exit Time: 365
+Exit Lane: EAST-bound
+Car #711
+Entry Time: 345
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #712
+Entry Time: 345
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #713
+Entry Time: 346
+Entry Lane: NORTH-bound
+Exit Time: 367
+Exit Lane: SOUTH-bound
+Car #714
+Entry Time: 346
+Entry Lane: EAST-bound
+Exit Time: 356
+Exit Lane: EAST-bound
+Car #715
+Entry Time: 346
+Entry Lane: SOUTH-bound
+Exit Time: 364
+Exit Lane: SOUTH-bound
+Car #716
+Entry Time: 346
+Entry Lane: WEST-bound
+Exit Time: 357
+Exit Lane: WEST-bound
+Car #717
+Entry Time: 347
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #718
+Entry Time: 347
+Entry Lane: EAST-bound
+Exit Time: 357
+Exit Lane: EAST-bound
+Car #719
+Entry Time: 347
+Entry Lane: SOUTH-bound
+Exit Time: 365
+Exit Lane: WEST-bound
+Car #720
+Entry Time: 348
+Entry Lane: EAST-bound
+Exit Time: 358
+Exit Lane: EAST-bound
+Car #721
+Entry Time: 348
+Entry Lane: WEST-bound
+Exit Time: 359
+Exit Lane: WEST-bound
+Car #722
+Entry Time: 349
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #723
+Entry Time: 349
+Entry Lane: WEST-bound
+Exit Time: 359
+Exit Lane: NORTH-bound
+Car #724
+Entry Time: 350
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #725
+Entry Time: 351
+Entry Lane: EAST-bound
+Exit Time: 373
+Exit Lane: EAST-bound
+Car #726
+Entry Time: 351
+Entry Lane: SOUTH-bound
+Exit Time: 366
+Exit Lane: SOUTH-bound
+Car #727
+Entry Time: 353
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #728
+Entry Time: 353
+Entry Lane: EAST-bound
+Exit Time: 373
+Exit Lane: SOUTH-bound
+Car #729
+Entry Time: 353
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #730
+Entry Time: 354
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #731
+Entry Time: 354
+Entry Lane: WEST-bound
+Exit Time: 373
+Exit Lane: WEST-bound
+Car #732
+Entry Time: 355
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #733
+Entry Time: 355
+Entry Lane: EAST-bound
+Exit Time: 374
+Exit Lane: EAST-bound
+Car #734
+Entry Time: 355
+Entry Lane: WEST-bound
+Exit Time: 375
+Exit Lane: SOUTH-bound
+Car #735
+Entry Time: 356
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #736
+Entry Time: 357
+Entry Lane: WEST-bound
+Exit Time: 375
+Exit Lane: WEST-bound
+Car #737
+Entry Time: 358
+Entry Lane: NORTH-bound
+Exit Time: 371
+Exit Lane: EAST-bound
+Car #738
+Entry Time: 358
+Entry Lane: SOUTH-bound
+Exit Time: 369
+Exit Lane: SOUTH-bound
+Car #739
+Entry Time: 358
+Entry Lane: WEST-bound
+Exit Time: 375
+Exit Lane: NORTH-bound
+Car #740
+Entry Time: 359
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #741
+Entry Time: 359
+Entry Lane: SOUTH-bound
+Exit Time: 369
+Exit Lane: SOUTH-bound
+Car #742
+Entry Time: 359
+Entry Lane: WEST-bound
+Exit Time: 376
+Exit Lane: NORTH-bound
+Car #743
+Entry Time: 360
+Entry Lane: NORTH-bound
+Exit Time: 370
+Exit Lane: EAST-bound
+Car #744
+Entry Time: 360
+Entry Lane: SOUTH-bound
+Exit Time: 370
+Exit Lane: WEST-bound
+Car #745
+Entry Time: 361
+Entry Lane: NORTH-bound
+Exit Time: 371
+Exit Lane: EAST-bound
+Car #746
+Entry Time: 361
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #747
+Entry Time: 362
+Entry Lane: NORTH-bound
+Exit Time: 384
+Exit Lane: SOUTH-bound
+Car #748
+Entry Time: 362
+Entry Lane: SOUTH-bound
+Exit Time: 383
+Exit Lane: WEST-bound
+Car #749
+Entry Time: 363
+Entry Lane: EAST-bound
+Exit Time: 376
+Exit Lane: EAST-bound
+Car #750
+Entry Time: 363
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #751
+Entry Time: 364
+Entry Lane: NORTH-bound
+Exit Time: 384
+Exit Lane: EAST-bound
+Car #752
+Entry Time: 364
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #753
+Entry Time: 365
+Entry Lane: NORTH-bound
+Exit Time: 385
+Exit Lane: EAST-bound
+Car #754
+Entry Time: 365
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #755
+Entry Time: 366
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #756
+Entry Time: 366
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #757
+Entry Time: 367
+Entry Lane: NORTH-bound
+Exit Time: 386
+Exit Lane: EAST-bound
+Car #758
+Entry Time: 367
+Entry Lane: SOUTH-bound
+Exit Time: 384
+Exit Lane: SOUTH-bound
+Car #759
+Entry Time: 368
+Entry Lane: NORTH-bound
+Exit Time: 387
+Exit Lane: EAST-bound
+Car #760
+Entry Time: 368
+Entry Lane: WEST-bound
+Exit Time: 379
+Exit Lane: WEST-bound
+Car #761
+Entry Time: 370
+Entry Lane: EAST-bound
+Exit Time: 380
+Exit Lane: EAST-bound
+Car #762
+Entry Time: 370
+Entry Lane: SOUTH-bound
+Exit Time: 385
+Exit Lane: WEST-bound
+Car #763
+Entry Time: 370
+Entry Lane: WEST-bound
+Exit Time: 381
+Exit Lane: WEST-bound
+Car #764
+Entry Time: 371
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #765
+Entry Time: 371
+Entry Lane: EAST-bound
+Exit Time: 381
+Exit Lane: EAST-bound
+Car #766
+Entry Time: 371
+Entry Lane: WEST-bound
+Exit Time: 381
+Exit Lane: NORTH-bound
+Car #767
+Entry Time: 372
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #768
+Entry Time: 372
+Entry Lane: SOUTH-bound
+Exit Time: 386
+Exit Lane: WEST-bound
+Car #769
+Entry Time: 373
+Entry Lane: SOUTH-bound
+Exit Time: 387
+Exit Lane: SOUTH-bound
+Car #770
+Entry Time: 373
+Entry Lane: WEST-bound
+Exit Time: 395
+Exit Lane: SOUTH-bound
+Car #771
+Entry Time: 374
+Entry Lane: EAST-bound
+Exit Time: 393
+Exit Lane: SOUTH-bound
+Car #772
+Entry Time: 374
+Entry Lane: WEST-bound
+Exit Time: 395
+Exit Lane: WEST-bound
+Car #773
+Entry Time: 375
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #774
+Entry Time: 375
+Entry Lane: EAST-bound
+Exit Time: 394
+Exit Lane: SOUTH-bound
+Car #775
+Entry Time: 375
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #776
+Entry Time: 375
+Entry Lane: WEST-bound
+Exit Time: 397
+Exit Lane: SOUTH-bound
+Car #777
+Entry Time: 376
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #778
+Entry Time: 376
+Entry Lane: EAST-bound
+Exit Time: 395
+Exit Lane: EAST-bound
+Car #779
+Entry Time: 376
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #780
+Entry Time: 377
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #781
+Entry Time: 377
+Entry Lane: EAST-bound
+Exit Time: 396
+Exit Lane: SOUTH-bound
+Car #782
+Entry Time: 377
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #783
+Entry Time: 378
+Entry Lane: NORTH-bound
+Exit Time: 388
+Exit Lane: EAST-bound
+Car #784
+Entry Time: 378
+Entry Lane: EAST-bound
+Exit Time: 397
+Exit Lane: EAST-bound
+Car #785
+Entry Time: 378
+Entry Lane: WEST-bound
+Exit Time: 397
+Exit Lane: WEST-bound
+Car #786
+Entry Time: 379
+Entry Lane: WEST-bound
+Exit Time: 398
+Exit Lane: WEST-bound
+Car #787
+Entry Time: 380
+Entry Lane: NORTH-bound
+Exit Time: 390
+Exit Lane: NORTH-bound
+Car #788
+Entry Time: 380
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #789
+Entry Time: 381
+Entry Lane: NORTH-bound
+Exit Time: 391
+Exit Lane: EAST-bound
+Car #790
+Entry Time: 381
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #791
+Entry Time: 382
+Entry Lane: NORTH-bound
+Exit Time: 392
+Exit Lane: NORTH-bound
+Car #792
+Entry Time: 382
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #793
+Entry Time: 382
+Entry Lane: SOUTH-bound
+Exit Time: 392
+Exit Lane: WEST-bound
+Car #794
+Entry Time: 382
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #795
+Entry Time: 383
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #796
+Entry Time: 383
+Entry Lane: SOUTH-bound
+Exit Time: 405
+Exit Lane: SOUTH-bound
+Car #797
+Entry Time: 383
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #798
+Entry Time: 384
+Entry Lane: SOUTH-bound
+Exit Time: 405
+Exit Lane: WEST-bound
+Car #799
+Entry Time: 384
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #800
+Entry Time: 385
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #801
+Entry Time: 386
+Entry Lane: NORTH-bound
+Exit Time: 404
+Exit Lane: NORTH-bound
+Car #802
+Entry Time: 386
+Entry Lane: SOUTH-bound
+Exit Time: 406
+Exit Lane: WEST-bound
+Car #803
+Entry Time: 386
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #804
+Entry Time: 387
+Entry Lane: SOUTH-bound
+Exit Time: 407
+Exit Lane: WEST-bound
+Car #805
+Entry Time: 387
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #806
+Entry Time: 388
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #807
+Entry Time: 389
+Entry Lane: WEST-bound
+Exit Time: 399
+Exit Lane: NORTH-bound
+Car #808
+Entry Time: 390
+Entry Lane: EAST-bound
+Exit Time: 401
+Exit Lane: NORTH-bound
+Car #809
+Entry Time: 390
+Entry Lane: SOUTH-bound
+Exit Time: 408
+Exit Lane: WEST-bound
+Car #810
+Entry Time: 391
+Entry Lane: EAST-bound
+Exit Time: 403
+Exit Lane: WEST-bound
+Car #811
+Entry Time: 392
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #812
+Entry Time: 393
+Entry Lane: EAST-bound
+Exit Time: 414
+Exit Lane: EAST-bound
+Car #813
+Entry Time: 393
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #814
+Entry Time: 394
+Entry Lane: EAST-bound
+Exit Time: 415
+Exit Lane: EAST-bound
+Car #815
+Entry Time: 394
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #816
+Entry Time: 395
+Entry Lane: NORTH-bound
+Exit Time: 406
+Exit Lane: NORTH-bound
+Car #817
+Entry Time: 395
+Entry Lane: EAST-bound
+Exit Time: 417
+Exit Lane: EAST-bound
+Car #818
+Entry Time: 395
+Entry Lane: WEST-bound
+Exit Time: 414
+Exit Lane: NORTH-bound
+Car #819
+Entry Time: 396
+Entry Lane: NORTH-bound
+Exit Time: 407
+Exit Lane: EAST-bound
+Car #820
+Entry Time: 396
+Entry Lane: EAST-bound
+Exit Time: 417
+Exit Lane: SOUTH-bound
+Car #821
+Entry Time: 397
+Entry Lane: NORTH-bound
+Exit Time: 408
+Exit Lane: EAST-bound
+Car #822
+Entry Time: 398
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #823
+Entry Time: 398
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #824
+Entry Time: 399
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #825
+Entry Time: 399
+Entry Lane: WEST-bound
+Exit Time: 416
+Exit Lane: WEST-bound
+Car #826
+Entry Time: 400
+Entry Lane: WEST-bound
+Exit Time: 416
+Exit Lane: NORTH-bound
+Car #827
+Entry Time: 401
+Entry Lane: NORTH-bound
+Exit Time: 412
+Exit Lane: SOUTH-bound
+Car #828
+Entry Time: 401
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #829
+Entry Time: 401
+Entry Lane: SOUTH-bound
+Exit Time: 411
+Exit Lane: WEST-bound
+Car #830
+Entry Time: 401
+Entry Lane: WEST-bound
+Exit Time: 418
+Exit Lane: WEST-bound
+Car #831
+Entry Time: 402
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #832
+Entry Time: 402
+Entry Lane: WEST-bound
+Exit Time: 419
+Exit Lane: WEST-bound
+Car #833
+Entry Time: 403
+Entry Lane: NORTH-bound
+Exit Time: 413
+Exit Lane: EAST-bound
+Car #834
+Entry Time: 403
+Entry Lane: SOUTH-bound
+Exit Time: 413
+Exit Lane: WEST-bound
+Car #835
+Entry Time: 404
+Entry Lane: NORTH-bound
+Exit Time: 425
+Exit Lane: NORTH-bound
+Car #836
+Entry Time: 404
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #837
+Entry Time: 404
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #838
+Entry Time: 404
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #839
+Entry Time: 405
+Entry Lane: SOUTH-bound
+Exit Time: 426
+Exit Lane: WEST-bound
+Car #840
+Entry Time: 406
+Entry Lane: NORTH-bound
+Exit Time: 426
+Exit Lane: EAST-bound
+Car #841
+Entry Time: 407
+Entry Lane: SOUTH-bound
+Exit Time: 427
+Exit Lane: SOUTH-bound
+Car #842
+Entry Time: 407
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #843
+Entry Time: 408
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #844
+Entry Time: 409
+Entry Lane: NORTH-bound
+Exit Time: 427
+Exit Lane: EAST-bound
+Car #845
+Entry Time: 410
+Entry Lane: NORTH-bound
+Exit Time: 428
+Exit Lane: EAST-bound
+Car #846
+Entry Time: 410
+Entry Lane: EAST-bound
+Exit Time: 420
+Exit Lane: EAST-bound
+Car #847
+Entry Time: 410
+Entry Lane: SOUTH-bound
+Exit Time: 428
+Exit Lane: WEST-bound
+Car #848
+Entry Time: 410
+Entry Lane: WEST-bound
+Exit Time: 421
+Exit Lane: WEST-bound
+Car #849
+Entry Time: 412
+Entry Lane: EAST-bound
+Exit Time: 422
+Exit Lane: EAST-bound
+Car #850
+Entry Time: 412
+Entry Lane: WEST-bound
+Exit Time: 422
+Exit Lane: NORTH-bound
+Car #851
+Entry Time: 413
+Entry Lane: NORTH-bound
+Exit Time: 429
+Exit Lane: EAST-bound
+Car #852
+Entry Time: 413
+Entry Lane: EAST-bound
+Exit Time: 424
+Exit Lane: NORTH-bound
+Car #853
+Entry Time: 413
+Entry Lane: SOUTH-bound
+Exit Time: 431
+Exit Lane: NORTH-bound
+Car #854
+Entry Time: 414
+Entry Lane: EAST-bound
+Exit Time: 435
+Exit Lane: EAST-bound
+Car #855
+Entry Time: 414
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #856
+Entry Time: 415
+Entry Lane: EAST-bound
+Exit Time: 436
+Exit Lane: EAST-bound
+Car #857
+Entry Time: 415
+Entry Lane: WEST-bound
+Exit Time: 435
+Exit Lane: NORTH-bound
+Car #858
+Entry Time: 416
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #859
+Entry Time: 416
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #860
+Entry Time: 416
+Entry Lane: WEST-bound
+Exit Time: 437
+Exit Lane: WEST-bound
+Car #861
+Entry Time: 417
+Entry Lane: EAST-bound
+Exit Time: 437
+Exit Lane: SOUTH-bound
+Car #862
+Entry Time: 417
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #863
+Entry Time: 417
+Entry Lane: WEST-bound
+Exit Time: 437
+Exit Lane: NORTH-bound
+Car #864
+Entry Time: 418
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #865
+Entry Time: 419
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #866
+Entry Time: 420
+Entry Lane: EAST-bound
+Exit Time: 438
+Exit Lane: SOUTH-bound
+Car #867
+Entry Time: 420
+Entry Lane: SOUTH-bound
+Exit Time: 431
+Exit Lane: SOUTH-bound
+Car #868
+Entry Time: 421
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #869
+Entry Time: 421
+Entry Lane: SOUTH-bound
+Exit Time: 431
+Exit Lane: WEST-bound
+Car #870
+Entry Time: 422
+Entry Lane: NORTH-bound
+Exit Time: 432
+Exit Lane: NORTH-bound
+Car #871
+Entry Time: 422
+Entry Lane: WEST-bound
+Exit Time: 438
+Exit Lane: NORTH-bound
+Car #872
+Entry Time: 423
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #873
+Entry Time: 423
+Entry Lane: WEST-bound
+Exit Time: 440
+Exit Lane: WEST-bound
+Car #874
+Entry Time: 424
+Entry Lane: NORTH-bound
+Exit Time: 434
+Exit Lane: EAST-bound
+Car #875
+Entry Time: 424
+Entry Lane: SOUTH-bound
+Exit Time: 434
+Exit Lane: SOUTH-bound
+Car #876
+Entry Time: 424
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #877
+Entry Time: 425
+Entry Lane: NORTH-bound
+Exit Time: 448
+Exit Lane: EAST-bound
+Car #878
+Entry Time: 425
+Entry Lane: SOUTH-bound
+Exit Time: 446
+Exit Lane: WEST-bound
+Car #879
+Entry Time: 426
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #880
+Entry Time: 426
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #881
+Entry Time: 427
+Entry Lane: NORTH-bound
+Exit Time: 447
+Exit Lane: NORTH-bound
+Car #882
+Entry Time: 427
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #883
+Entry Time: 427
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #884
+Entry Time: 428
+Entry Lane: NORTH-bound
+Exit Time: 448
+Exit Lane: NORTH-bound
+Car #885
+Entry Time: 428
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #886
+Entry Time: 428
+Entry Lane: SOUTH-bound
+Exit Time: 448
+Exit Lane: SOUTH-bound
+Car #887
+Entry Time: 428
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #888
+Entry Time: 429
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #889
+Entry Time: 430
+Entry Lane: EAST-bound
+Exit Time: 440
+Exit Lane: EAST-bound
+Car #890
+Entry Time: 431
+Entry Lane: SOUTH-bound
+Exit Time: 449
+Exit Lane: SOUTH-bound
+Car #891
+Entry Time: 431
+Entry Lane: WEST-bound
+Exit Time: 441
+Exit Lane: NORTH-bound
+Car #892
+Entry Time: 432
+Entry Lane: NORTH-bound
+Exit Time: 449
+Exit Lane: EAST-bound
+Car #893
+Entry Time: 432
+Entry Lane: EAST-bound
+Exit Time: 443
+Exit Lane: EAST-bound
+Car #894
+Entry Time: 432
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #895
+Entry Time: 433
+Entry Lane: EAST-bound
+Exit Time: 443
+Exit Lane: EAST-bound
+Car #896
+Entry Time: 433
+Entry Lane: SOUTH-bound
+Exit Time: 450
+Exit Lane: SOUTH-bound
+Car #897
+Entry Time: 434
+Entry Lane: NORTH-bound
+Exit Time: 451
+Exit Lane: SOUTH-bound
+Car #898
+Entry Time: 434
+Entry Lane: EAST-bound
+Exit Time: 444
+Exit Lane: EAST-bound
+Car #899
+Entry Time: 434
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #900
+Entry Time: 435
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #901
+Entry Time: 435
+Entry Lane: WEST-bound
+Exit Time: 457
+Exit Lane: WEST-bound
+Car #902
+Entry Time: 436
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #903
+Entry Time: 436
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #904
+Entry Time: 437
+Entry Lane: EAST-bound
+Exit Time: 456
+Exit Lane: SOUTH-bound
+Car #905
+Entry Time: 437
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #906
+Entry Time: 437
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #907
+Entry Time: 438
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #908
+Entry Time: 438
+Entry Lane: EAST-bound
+Exit Time: 458
+Exit Lane: EAST-bound
+Car #909
+Entry Time: 439
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #910
+Entry Time: 440
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #911
+Entry Time: 440
+Entry Lane: WEST-bound
+Exit Time: 459
+Exit Lane: WEST-bound
+Car #912
+Entry Time: 441
+Entry Lane: EAST-bound
+Exit Time: 458
+Exit Lane: EAST-bound
+Car #913
+Entry Time: 441
+Entry Lane: WEST-bound
+Exit Time: 459
+Exit Lane: NORTH-bound
+Car #914
+Entry Time: 442
+Entry Lane: NORTH-bound
+Exit Time: 452
+Exit Lane: NORTH-bound
+Car #915
+Entry Time: 442
+Entry Lane: EAST-bound
+Exit Time: 459
+Exit Lane: EAST-bound
+Car #916
+Entry Time: 442
+Entry Lane: SOUTH-bound
+Exit Time: 452
+Exit Lane: WEST-bound
+Car #917
+Entry Time: 443
+Entry Lane: NORTH-bound
+Exit Time: 456
+Exit Lane: WEST-bound
+Car #918
+Entry Time: 443
+Entry Lane: SOUTH-bound
+Exit Time: 456
+Exit Lane: EAST-bound
+Car #919
+Entry Time: 444
+Entry Lane: NORTH-bound
+Exit Time: 454
+Exit Lane: NORTH-bound
+Car #920
+Entry Time: 444
+Entry Lane: WEST-bound
+Exit Time: 462
+Exit Lane: SOUTH-bound
+Car #921
+Entry Time: 445
+Entry Lane: SOUTH-bound
+Exit Time: 455
+Exit Lane: WEST-bound
+Car #922
+Entry Time: 446
+Entry Lane: NORTH-bound
+Exit Time: 473
+Exit Lane: NORTH-bound
+Car #923
+Entry Time: 446
+Entry Lane: SOUTH-bound
+Exit Time: 468
+Exit Lane: SOUTH-bound
+Car #924
+Entry Time: 447
+Entry Lane: EAST-bound
+Exit Time: 460
+Exit Lane: EAST-bound
+Car #925
+Entry Time: 447
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #926
+Entry Time: 448
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #927
+Entry Time: 448
+Entry Lane: SOUTH-bound
+Exit Time: 468
+Exit Lane: SOUTH-bound
+Car #928
+Entry Time: 448
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #929
+Entry Time: 449
+Entry Lane: NORTH-bound
+Exit Time: 469
+Exit Lane: SOUTH-bound
+Car #930
+Entry Time: 449
+Entry Lane: SOUTH-bound
+Exit Time: 469
+Exit Lane: WEST-bound
+Car #931
+Entry Time: 449
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #932
+Entry Time: 450
+Entry Lane: NORTH-bound
+Exit Time: 471
+Exit Lane: EAST-bound
+Car #933
+Entry Time: 451
+Entry Lane: NORTH-bound
+Exit Time: 470
+Exit Lane: EAST-bound
+Car #934
+Entry Time: 451
+Entry Lane: SOUTH-bound
+Exit Time: 470
+Exit Lane: SOUTH-bound
+Car #935
+Entry Time: 452
+Entry Lane: NORTH-bound
+Exit Time: 471
+Exit Lane: NORTH-bound
+Car #936
+Entry Time: 452
+Entry Lane: SOUTH-bound
+Exit Time: 471
+Exit Lane: SOUTH-bound
+Car #937
+Entry Time: 453
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #938
+Entry Time: 453
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #939
+Entry Time: 454
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #940
+Entry Time: 454
+Entry Lane: EAST-bound
+Exit Time: 464
+Exit Lane: EAST-bound
+Car #941
+Entry Time: 454
+Entry Lane: WEST-bound
+Exit Time: 464
+Exit Lane: NORTH-bound
+Car #942
+Entry Time: 455
+Entry Lane: EAST-bound
+Exit Time: 465
+Exit Lane: EAST-bound
+Car #943
+Entry Time: 455
+Entry Lane: WEST-bound
+Exit Time: 466
+Exit Lane: WEST-bound
+Car #944
+Entry Time: 456
+Entry Lane: EAST-bound
+Exit Time: 478
+Exit Lane: EAST-bound
+Car #945
+Entry Time: 456
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #946
+Entry Time: 456
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #947
+Entry Time: 457
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #948
+Entry Time: 457
+Entry Lane: WEST-bound
+Exit Time: 479
+Exit Lane: WEST-bound
+Car #949
+Entry Time: 458
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #950
+Entry Time: 458
+Entry Lane: EAST-bound
+Exit Time: 478
+Exit Lane: EAST-bound
+Car #951
+Entry Time: 458
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #952
+Entry Time: 458
+Entry Lane: WEST-bound
+Exit Time: 480
+Exit Lane: WEST-bound
+Car #953
+Entry Time: 459
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #954
+Entry Time: 459
+Entry Lane: EAST-bound
+Exit Time: 479
+Exit Lane: EAST-bound
+Car #955
+Entry Time: 459
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #956
+Entry Time: 460
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #957
+Entry Time: 460
+Entry Lane: EAST-bound
+Exit Time: 481
+Exit Lane: NORTH-bound
+Car #958
+Entry Time: 460
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #959
+Entry Time: 460
+Entry Lane: WEST-bound
+Exit Time: 480
+Exit Lane: NORTH-bound
+Car #960
+Entry Time: 461
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #961
+Entry Time: 461
+Entry Lane: WEST-bound
+Exit Time: 482
+Exit Lane: WEST-bound
+Car #962
+Entry Time: 462
+Entry Lane: SOUTH-bound
+Exit Time: 472
+Exit Lane: WEST-bound
+Car #963
+Entry Time: 462
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #964
+Entry Time: 463
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #965
+Entry Time: 465
+Entry Lane: NORTH-bound
+Exit Time: 475
+Exit Lane: EAST-bound
+Car #966
+Entry Time: 466
+Entry Lane: SOUTH-bound
+Exit Time: 476
+Exit Lane: WEST-bound
+Car #967
+Entry Time: 466
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #968
+Entry Time: 467
+Entry Lane: NORTH-bound
+Exit Time: 488
+Exit Lane: NORTH-bound
+Car #969
+Entry Time: 467
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #970
+Entry Time: 467
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #971
+Entry Time: 468
+Entry Lane: NORTH-bound
+Exit Time: 489
+Exit Lane: EAST-bound
+Car #972
+Entry Time: 468
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #973
+Entry Time: 468
+Entry Lane: SOUTH-bound
+Exit Time: 488
+Exit Lane: SOUTH-bound
+Car #974
+Entry Time: 469
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #975
+Entry Time: 470
+Entry Lane: NORTH-bound
+Exit Time: 490
+Exit Lane: EAST-bound
+Car #976
+Entry Time: 471
+Entry Lane: SOUTH-bound
+Exit Time: 489
+Exit Lane: SOUTH-bound
+Car #977
+Entry Time: 471
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #978
+Entry Time: 472
+Entry Lane: SOUTH-bound
+Exit Time: 490
+Exit Lane: SOUTH-bound
+Car #979
+Entry Time: 472
+Entry Lane: WEST-bound
+Exit Time: 483
+Exit Lane: WEST-bound
+Car #980
+Entry Time: 474
+Entry Lane: NORTH-bound
+Exit Time: 491
+Exit Lane: EAST-bound
+Car #981
+Entry Time: 474
+Entry Lane: EAST-bound
+Exit Time: 484
+Exit Lane: EAST-bound
+Car #982
+Entry Time: 474
+Entry Lane: SOUTH-bound
+Exit Time: 491
+Exit Lane: SOUTH-bound
+Car #983
+Entry Time: 474
+Entry Lane: WEST-bound
+Exit Time: 485
+Exit Lane: WEST-bound
+Car #984
+Entry Time: 475
+Entry Lane: EAST-bound
+Exit Time: 485
+Exit Lane: EAST-bound
+Car #985
+Entry Time: 475
+Entry Lane: SOUTH-bound
+Exit Time: 492
+Exit Lane: WEST-bound
+Car #986
+Entry Time: 475
+Entry Lane: WEST-bound
+Exit Time: 486
+Exit Lane: WEST-bound
+Car #987
+Entry Time: 476
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #988
+Entry Time: 477
+Entry Lane: EAST-bound
+Exit Time: 498
+Exit Lane: SOUTH-bound
+Car #989
+Entry Time: 477
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #990
+Entry Time: 478
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #991
+Entry Time: 479
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #992
+Entry Time: 480
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #993
+Entry Time: 481
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #994
+Entry Time: 482
+Entry Lane: NORTH-bound
+Exit Time: 492
+Exit Lane: NORTH-bound
+Car #995
+Entry Time: 483
+Entry Lane: NORTH-bound
+Exit Time: 494
+Exit Lane: SOUTH-bound
+Car #996
+Entry Time: 483
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #997
+Entry Time: 483
+Entry Lane: SOUTH-bound
+Exit Time: 493
+Exit Lane: WEST-bound
+Car #998
+Entry Time: 483
+Entry Lane: WEST-bound
+Exit Time: 499
+Exit Lane: WEST-bound
+Car #999
+Entry Time: 484
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1000
+Entry Time: 485
+Entry Lane: NORTH-bound
+Exit Time: 495
+Exit Lane: EAST-bound
+Car #1001
+Entry Time: 485
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1002
+Entry Time: 486
+Entry Lane: SOUTH-bound
+Exit Time: 496
+Exit Lane: WEST-bound
+Car #1003
+Entry Time: 486
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1004
+Entry Time: 487
+Entry Lane: NORTH-bound
+Exit Time: 497
+Exit Lane: NORTH-bound
+Car #1005
+Entry Time: 487
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1006
+Entry Time: 487
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1007
+Entry Time: 488
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1008
+Entry Time: 488
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1009
+Entry Time: 488
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1010
+Entry Time: 489
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1011
+Entry Time: 489
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1012
+Entry Time: 489
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1013
+Entry Time: 490
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1014
+Entry Time: 490
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1015
+Entry Time: 490
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1016
+Entry Time: 491
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1017
+Entry Time: 491
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1018
+Entry Time: 492
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1019
+Entry Time: 492
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1020
+Entry Time: 493
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1021
+Entry Time: 494
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1022
+Entry Time: 495
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1023
+Entry Time: 495
+Entry Lane: EAST-bound
+Exit Time: 0
+Exit Lane: EAST-bound
+Car #1024
+Entry Time: 495
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1025
+Entry Time: 495
+Entry Lane: WEST-bound
+Exit Time: 0
+Exit Lane: WEST-bound
+Car #1026
+Entry Time: 496
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1027
+Entry Time: 497
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1028
+Entry Time: 497
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
+Car #1029
+Entry Time: 498
+Entry Lane: NORTH-bound
+Exit Time: 0
+Exit Lane: NORTH-bound
+Car #1030
+Entry Time: 498
+Entry Lane: SOUTH-bound
+Exit Time: 0
+Exit Lane: SOUTH-bound
