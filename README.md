@@ -1,2 +1,2 @@
 # Classwork
-Please do not plagiarize.
+Please do not plagiarize. This is for portfolio purposes only.
